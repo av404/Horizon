@@ -196,8 +196,5 @@
       }
     },
     "headers": ""
-  },
-  "email": {
-    "enabled": false
   }
 }
