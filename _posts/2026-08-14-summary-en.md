@@ -5,516 +5,416 @@ date: 2026-08-14
 lang: en
 ---
 
-> From 48 items, 22 important content pieces were selected
+> From 41 items, 18 important content pieces were selected
 
 ---
 
 **Technology News**
-1. [Spaghettifying DRAM: Hardware Attack Undermines Memory Isolation](#item-tech-news-1) ⭐️ 9.0/10
-2. [GLM-5.3: Z.AI&\#x27;s Frontier Coding Model With Emergent Cyber Capabilities](#item-tech-news-2) ⭐️ 8.0/10
-3. [Cerebras and OpenAI Claim ~7x Faster GPT-5.6 Sol Ultrafast Reasoning](#item-tech-news-3) ⭐️ 8.0/10
-4. [systemd-journald write amplification: 49KB+ per log line on ext4](#item-tech-news-4) ⭐️ 8.0/10
-5. [worldproof: Diagnosing World-Model Failures and Pixel-Metric Limits](#item-tech-news-5) ⭐️ 8.0/10
-6. [DeepMind SL2T brings sign language-to-text to Pixel 11 keyboard and captions](#item-tech-news-6) ⭐️ 8.0/10
-7. [DeepSeek Harness Released; V4-Pro-0813 Weights Open](#item-tech-news-7) ⭐️ 8.0/10
-8. [X Opens More of Its Ranking Algorithm and Adds Transparency Check](#item-tech-news-8) ⭐️ 8.0/10
-9. [Gemini 3.7 Flash Arrives with Vision Strength and Time-Limited Pricing](#item-tech-news-9) ⭐️ 7.0/10
-10. [Bluesky Introduces Jetstream for Easier AT Protocol Development](#item-tech-news-10) ⭐️ 7.0/10
-11. [Understanding Is the New Bottleneck in AI-Assisted Coding](#item-tech-news-11) ⭐️ 7.0/10
-12. [Choose Boring Technology and Spend Innovation Tokens Wisely](#item-tech-news-12) ⭐️ 7.0/10
-13. [NP-hardness Overrated in Practice?](#item-tech-news-13) ⭐️ 7.0/10
-14. [Following 657,607 Links Reveals Where the Old Web Went](#item-tech-news-14) ⭐️ 7.0/10
-15. [City2Graph: Open-Source Python Library for Urban Heterogeneous Graphs and GNNs](#item-tech-news-15) ⭐️ 7.0/10
-16. [AI Robot Labs Test 3M Human Tissue Samples Yearly, Could Replace Animal Testing](#item-tech-news-16) ⭐️ 7.0/10
+1. [GLM-5.3 Release Claims Emergent Cyber Capabilities](#item-tech-news-1) ⭐️ 9.0/10
+2. [Qwen 3.8 27B: New Local Model Shows Strong Reasoning but Sparks Efficiency Questions](#item-tech-news-2) ⭐️ 8.0/10
+3. [Firefox becomes the last major browser supporting uBlock Origin](#item-tech-news-3) ⭐️ 8.0/10
+4. [Compiling Doom&\#x27;s Renderer Into a 21B-Parameter Transformer Without Training](#item-tech-news-4) ⭐️ 8.0/10
+5. [AI Robotic Labs Scale Human Tissue Testing, Could Replace Animal Tests](#item-tech-news-5) ⭐️ 8.0/10
+6. [Xiaohongshu Open-Sources 280B MoE dots3-note with 16B Active Parameters](#item-tech-news-6) ⭐️ 8.0/10
+7. [PostgreSQL Patches Critical to\_char RCE Flaw CVE-2026-14669](#item-tech-news-7) ⭐️ 8.0/10
+8. [Why Claude Opus 5 Feels Worse to Work With](#item-tech-news-8) ⭐️ 7.0/10
+9. [Mixedbread Unveils Toast 1, a Specialized LLM for Search](#item-tech-news-9) ⭐️ 7.0/10
+10. [Don&\#x27;t classify. Hallucinate\! Tagging with embeddings](#item-tech-news-10) ⭐️ 7.0/10
+11. [torch-preflight: A Static Linter That Catches PyTorch Training Bugs and Estimates VRAM](#item-tech-news-11) ⭐️ 7.0/10
+12. [Judge Orders Google to Remove Third-Party App Store Warnings](#item-tech-news-12) ⭐️ 7.0/10
+13. [Apple builds China-specific AI model with Alibaba, eyes first foreign approval](#item-tech-news-13) ⭐️ 7.0/10
+
+**Technology Blog**
+1. [Adaptive Speculative Verification in vLLM with DSpark Confidence Scheduling](#item-tech-blog-1) ⭐️ 8.0/10
 
 **Financial News**
-1. [Bill Ackman&\#x27;s Pershing Square buys Netflix stake again, saying it has won the streaming wars](#item-finance-news-1) ⭐️ 8.0/10
-2. [CXMT Overtakes Tencent as China’s Most Valuable Company](#item-finance-news-2) ⭐️ 8.0/10
-3. [Uber and Pony.ai plan 2,000 robotaxis in Europe](#item-finance-news-3) ⭐️ 7.0/10
-4. [S&amp;P 500 profit margins hit record 16.9% in Q2, FactSet says](#item-finance-news-4) ⭐️ 7.0/10
-5. [U.S. President Announces Drone Tariffs Up to 100% on Some Imports](#item-finance-news-5) ⭐️ 7.0/10
-6. [Apple Proposes Up to 15% Commission for Off-App-Store Purchases in the US](#item-finance-news-6) ⭐️ 7.0/10
+1. [Berkshire Hathaway boosts Alphabet stake and returns to net stock buying in Q2](#item-finance-news-1) ⭐️ 8.0/10
+2. [Goldman Sachs profits from AI infrastructure financing](#item-finance-news-2) ⭐️ 8.0/10
+3. [Uber and Pony.ai plan 2,000 robotaxis across Europe](#item-finance-news-3) ⭐️ 7.0/10
+4. [Apple Proposes Up to 15% Commission on External Purchases in US App Store](#item-finance-news-4) ⭐️ 7.0/10
 
 ---
 
 ## Technology News
 
 <a id="item-tech-news-1"></a>
-### [Spaghettifying DRAM: Hardware Attack Undermines Memory Isolation](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) ⭐️ 9.0/10
+### [GLM-5.3 Release Claims Emergent Cyber Capabilities](https://z.ai/blog/glm-5.3) ⭐️ 9.0/10
 
-Christopher Domas released a hardware security research project, &\#x27;skitter-creek-bath-salts&\#x27;, demonstrating a DRAM exploitation technique that undermines memory isolation and poses serious security implications. The work, accompanied by a Black Hat talk, exposes a DRAM attack surface that could enable privilege escalation on affected systems. Community discussion notes the README identifies AMD Jaguar \(a 2013 architecture\) as affected, with notes about Zen 3 having a different memory controller register base address; the full scope across newer CPUs remains unclear. The research is significant because it targets hardware-level isolation, potentially exposing negative-ring functionality to ring-0 root on vulnerable machines.
+Z.ai unveiled GLM-5.3, a model that claims frontier coding performance and emergent cyber capabilities, including autonomous security research and vulnerability discovery. Community testers report using it with the Claude Code harness to execute red-team scenarios, adapt 6.8 kernel exploits, and find 0-days in WordPress plugins, with one user quickly upgrading from an $18 to an $80 subscription. Z.ai appears to be scanning open-source and popular software at scale and disclosing findings through cvd.z.ai, where many CVEs are under embargo and rated critical or high. Commenters note that Mythos 5 remains ahead on benchmarks requiring 181 and 247 tasks, and that GLM-5.3 may still be close to but not surpassing leading models, with some viewing it as GLM 5.2 plus post-training improvements. The release matters because it highlights the falling cost of automated vulnerability discovery and the growing practical impact of AI on software security and coding workflows.
 
-hackernews · matt\_d · Aug 13, 14:17 · [Discussion](https://news.ycombinator.com/item?id=49286341)
+hackernews · pella · Aug 14, 05:19 · [Discussion](https://news.ycombinator.com/item?id=49294997)
 
-**「Background」** DRAM scrambling is a hardware feature that obfuscates the mapping between CPU physical addresses and DRAM cells, making it harder for software to infer the physical layout of memory. Christopher Domas \(@xoreaxeaxeax\) has released a research project, skitter-creek-bath-salts, that demonstrates a technique for reversing or bypassing this scrambling on certain AMD processors—notably the AMD16h \(Jaguar\) family—allowing code with ring-0 privileges to break memory isolation and access data reserved for more privileged layers, such as hypervisors or SMM. The work is associated with an upcoming Black Hat 2026 talk, &\#x27;Spaghettifying DRAM,&\#x27; and notes that newer families like Zen 3 have different base addresses for the memory controller registers, leaving the full scope of affected CPUs unspecified.
+**「Background」** GLM-5.3 is the latest flagship model from Chinese AI company Z.ai, introduced as an upgrade to GLM-5.2 using the same base model with all improvements coming from post-training. It is designed for complex software engineering and agent tasks, and Z.ai reports that GLM-5.3 improved coding benchmark results by 50 percent over its predecessor. As of mid-July 2026, the model had no official announcement or model card, with documentation appearing ahead of an official release.
 
-**「Impact」** The README identifies AMD Jaguar \(16h\) as an affected family, where the technique lets an already ring-0 attacker bypass memory isolation and access data held in the processor&\#x27;s negative-ring territory; commenters noted that Jaguar-based game consoles could be especially exposed, while newer CPUs remain unconfirmed because only a Zen 3 memory-controller register base address change is noted. No confirmed impact on Intel or newer AMD families has been disclosed in the item.
+**「Impact」** Early user reports indicate GLM-5.3 can autonomously perform red-team security research, including discovering 0-days in WordPress plugins, achieving RCE, and adapting a Linux 6.8 kernel exploit, while Z.ai appears to be scaling coordinated vulnerability disclosure through cvd.z.ai. This could substantially increase the volume and pace of critical/high CVEs under embargo for popular open-source software, forcing maintainers and security teams to patch faster and raising dual-use concerns about autonomous AI offensive capabilities.
 
-**「Community Discussion」** Commenters expressed high anticipation for the accompanying Black Hat talk, praising Christopher Domas&\#x27;s past research presentations. Concerns focused on the attack surface of modern DRAM, potential impact on game consoles like Xbox and PlayStation after gaining ring-0, and uncertainty about which newer CPU families beyond AMD Jaguar are affected.
+**「Community Discussion」** Commenters report strong real-world results in autonomous security research, including 0-day discovery in WordPress plugins, remote code execution, kernel exploit adaptation, and agent-versus-agent defense scenarios, while also raising concerns about large-scale CVE scanning costs, embargo practices, and comparisons to Anthropic&\#x27;s Project Glasswing. Others caution that GLM-5.3 still trails leading models on some benchmarks, with one noting it is &\#x27;shy of Sol and Fable&\#x27; and another suggesting it is essentially GLM 5.2 with post-training magic, though the model&\#x27;s capability jump and researcher-like writing style were widely praised.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/xoreaxeaxeax/skitter-creek-bath-salts">GitHub - xoreaxeaxeax/skitter-creek-bath-salts: Unlocking _everything_ on the CPU with DRAM scrambling · GitHub</a></li>
+<li><a href="https://kie.ai/blog/what-is-glm-5-3">What Is GLM - 5 . 3 ? Z . ai &#x27;s Next Open-Weight Model</a></li>
+<li><a href="https://docs.z.ai/guides/llm/glm-5.3">GLM - 5 . 3 - Overview - Z . AI DEVELOPER DOCUMENT</a></li>
+<li><a href="https://theunum.io/en/news/read/chinese-startup-z-ai-has-introduced-the-glm-53-language-model-for-programming">Chinese startup Z ai has introduced the GLM - 5 . 3 language model for...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#DRAM`, `#hardware security`, `#exploit`, `#privilege escalation`, `#security research`
+**Tags**: `#AI`, `#coding model`, `#cybersecurity`, `#GLM`, `#frontier model`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [GLM-5.3: Z.AI&\#x27;s Frontier Coding Model With Emergent Cyber Capabilities](https://z.ai/blog/glm-5.3) ⭐️ 8.0/10
+### [Qwen 3.8 27B: New Local Model Shows Strong Reasoning but Sparks Efficiency Questions](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) ⭐️ 8.0/10
 
-Z.AI announced GLM-5.3 in a blog post presenting it as a frontier coding model with emergent cyber capabilities, achieved through post-training scaling rather than a new base model. The company positions GLM-5.3 as competitive with leading closed models and highlights open-weight availability, giving developers and researchers a credible alternative to proprietary APIs. The release notes that capability gains are uneven: while coding performance is strong, the largest remaining gaps to closed frontiers appear on benchmarks that sit further up the exploitation chain. This matters because it demonstrates that post-training alone can produce near-frontier results across coding and security-related tasks, potentially reducing reliance on closed providers.
+Qwen 3.8 27B is a newly released local AI model, published on Hugging Face as Qwen3.8-27B-FP8, that demonstrates improved reasoning on private benchmarks and has generated active discussion on Hacker News. Community testers report it is only the second local model after Gemma 4 to correctly reason through one private benchmark, though it took roughly 5 times as many tokens and 12 minutes 30 seconds with MTP enabled. The model reasons more explicitly than Gemma 4, but its VRAM usage appears less efficient than alternatives, and the Ollama API currently lacks a way to turn off thinking, leading some users to consider sticking with Qwen 3.6. The release is best seen as an incremental update rather than a paradigm shift, with known issues such as broken Jinja templates that need community workarounds.
 
-hackernews · pella · Aug 14, 05:19 · [Discussion](https://news.ycombinator.com/item?id=49294997)
+hackernews · erdaltoprak · Aug 14, 15:00 · [Discussion](https://news.ycombinator.com/item?id=49299605)
 
-**「Background」** GLM is a series of large language models developed by Z.ai \(formerly Zhipu AI\), known for offering open-weight versions that can run locally as well as API access through subscription plans like the GLM Coding Plan. GLM-5.3, announced on August 14, 2026, keeps the same base model as GLM-5.2 and derives all improvements from scaled-up post-training, with a focus on coding and emergent cybersecurity capabilities. This release builds on GLM-5.2&\#x27;s reputation for competitive performance against leading closed models at lower cost.
+**「Background」** Qwen 3.8 27B is an open-weights Apache-2.0 vision-language model from Alibaba, released on 14 August 2026, with a 27B parameter size and 262,144 tokens of native context. Thinking is on by default, and it offers a reasoning\_effort dial to control how much reasoning is performed. It is designed for local deployment and is available on Hugging Face, with support for vLLM, llama.cpp, Ollama, and LM Studio.
 
-**「Impact」** For AI engineers, researchers, and security teams, GLM-5.3 offers a near-frontier open-weight model that can be evaluated, adapted, and potentially run locally in quantized form, lowering barriers to high-end coding and cyber-capability research.
+**「Impact」** Local AI practitioners gain a new option for explicit, step-by-step reasoning on complex tasks, but higher VRAM consumption, slower reasoning, and the inability to disable thinking in Ollama may push some users to favor Qwen 3.6 or Gemma 4 for everyday use.
 
-**「Community discussion」** Commenters were impressed but measured, noting that GLM-5.3 is only slightly behind leading proprietary models and that the blog post reads like researcher-authored material rather than marketing hype. Some questioned whether the performance jump justifies switching away from existing providers, pointed out that GLM-5.3 is effectively GLM-5.2 plus post-training scaling, and discussed running the model locally in heavily quantized forms once weights are available.
+**「Community Discussion」** Commenters praised the model&\#x27;s explicit reasoning and even noted the best pelican image seen from a local model, but they also flagged higher VRAM usage, a distinctive telegraphic thinking trace that may hamper MTP predictions, and Jinja template problems. Some users plan to stay on Qwen 3.6 unless the thinking mode can be disabled in Ollama, while others shared community templates to fix tool calling and KV cache hit rates.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/GLM_%28AI%29">GLM (AI) - Wikipedia</a></li>
-<li><a href="https://explainx.ai/blog/glm-5-3-launch-cyber-defense-benchmarks-august-2026">GLM-5.3 Launch: Benchmarks, Pricing &amp; Access (Aug 2026) | explainx.ai Blog | explainx.ai</a></li>
-<li><a href="https://www.unite.ai/z-ai-launches-glm-5-3-with-frontier-coding-and-a-cyber-capability-that-outgrew-its-training/">Z.ai Launches GLM-5.3 With Frontier Coding and a Cyber Capability That Outgrew Its Training – Unite.AI</a></li>
+<li><a href="https://www.youtube.com/watch?v=Fvg8659WQDg">Qwen - 3 . 8 - 27 B Released : Everything you need to Know... - YouTube</a></li>
+<li><a href="https://huggingface.co/Qwen/Qwen3.8-27B">Qwen / Qwen 3 . 8 - 27 B · Hugging Face</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#GLM-5.3`, `#artificial intelligence`, `#machine learning`, `#coding`, `#cybersecurity`
+**Tags**: `#AI`, `#LLM`, `#Qwen`, `#local-models`, `#reasoning`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [Cerebras and OpenAI Claim ~7x Faster GPT-5.6 Sol Ultrafast Reasoning](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) ⭐️ 8.0/10
+### [Firefox becomes the last major browser supporting uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html) ⭐️ 8.0/10
 
-OpenAI and Cerebras announced a collaboration delivering &\#x27;Ultrafast&\#x27; inference for GPT-5.6 Sol. In vendor-published HLE evaluations, Ultrafast answered all 2,500 questions in 11 hours and 11 minutes, versus 78 hours and 27 minutes for Claude Fable 5, roughly 7x faster at comparable accuracy. Cerebras also cites external output-speed comparisons suggesting 11x faster than Fable 5 and 5x faster than Opus 4.8 on Fast mode. Neither post states outright that accuracy is exactly identical to regular GPT-5.6 Sol, and pricing details have not been disclosed, so the benchmarks remain vendor claims awaiting independent verification.
+According to PCWorld, Firefox is now the only major browser that still supports uBlock Origin, a change driven by Chrome&\#x27;s move to Manifest V3, which restricts the APIs ad-blockers rely on. Chromium-based browsers such as Chrome and Edge have effectively dropped support for the extension, while Mozilla continues to allow it. This matters because uBlock Origin is widely considered one of the most effective ad and tracker blockers, and its loss on other browsers reduces user choice for privacy and performance. The article underscores the broader impact of Manifest V3 on extension capabilities, not just for ad-blocking but for other extensions that depend on the older API.
 
-hackernews · pr337h4m · Aug 13, 18:10 · [Discussion](https://news.ycombinator.com/item?id=49289844)
+hackernews · DemiGuru · Aug 14, 19:03 · [Discussion](https://news.ycombinator.com/item?id=49303202)
 
-**「Background」** Cerebras Systems builds ultra-large wafer-scale AI accelerators designed to deliver extremely high token-generation throughput, and OpenAI has now partnered with Cerebras to offer &quot;Ultrafast mode&quot; for its GPT-5.6 Sol model through the OpenAI API. This mode reportedly achieves up to 750 output tokens per second, targeting frontier-level reasoning tasks such as the HLE \(Humanity&\#x27;s Last Exam\) benchmark, where Cerebras claims the model answered all 2,500 questions in 11 hours and 11 minutes versus 78 hours and 27 minutes for Claude Fable 5. The announcement follows earlier OpenAI previews of Ultrafast technology and broader industry efforts to reduce inference latency, but pricing details have not yet been published.
+**「Background」** uBlock Origin is a free and open-source browser extension that blocks ads and other unwanted content by filtering network requests, and it has been available for both Firefox and Chromium-based browsers. Google&\#x27;s Manifest V3 extension framework, which Chrome and Edge have adopted, restricts the APIs that powerful content blockers rely on, making it impossible for uBlock Origin to function at full strength in those browsers. Firefox has chosen to continue supporting the older extension APIs, so it remains the only major browser where uBlock Origin works as intended.
 
-**「Impact」** For GPT-5.6 Sol users, Ultrafast could make multi-hour frontier reasoning tasks practical within a working day and enable more iterative &\#x27;thinking&\#x27; workflows, but pricing and independent verification are still missing.
+**「Impact」** Chrome users can no longer run the full-power uBlock Origin and must rely on MV3-compliant extensions with reduced rule limits, leaving Firefox as the only major browser where the original extension still works.
 
-**「Community Discussion」** Hacker News commenters were enthusiastic but cautious: some welcomed the speed and its potential for iterative reasoning, while others noted the absence of pricing and that neither Cerebras nor OpenAI explicitly confirmed Ultrafast is performance-identical to regular GPT-5.6 Sol.
+**「Community Discussion」** In the Hacker News discussion, commenters highlighted that Firefox vets uBlock Origin&\#x27;s code on each update for security, criticized Google for gating extension stores and weakening extension APIs, and noted that sideloading a manually installed extension in Chrome is still possible though cumbersome. Others said Manifest V3 prompted them to shut down their own ad-related extensions, and one commenter bluntly urged support for Firefox.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai">Accelerating GPT-5.6 Sol Ultrafast with OpenAI</a></li>
-<li><a href="https://www.globenewswire.com/news-release/2026/08/13/3344804/0/en/cerebras-powers-ultrafast-mode-for-openai-s-gpt-5-6-sol.html">Cerebras Powers Ultrafast Mode for OpenAI’s GPT-5.6 Sol</a></li>
-<li><a href="https://openai.com/index/previewing-ultrafast/">Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed | OpenAI</a></li>
+<li><a href="https://en.wikipedia.org/wiki/UBlock_Origin">uBlock Origin - Wikipedia</a></li>
+<li><a href="https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html">Firefox is now the last major browser that still supports uBlock Origin</a></li>
+<li><a href="https://9to5windows.com/firefox-last-major-browser-supporting-ublock-origin/">Firefox Confirms It Remains the Last Major Browser Supporting ...</a></li>
+<li><a href="https://adblock-tester.com/ad-blockers/manifest-v3-ad-blocker-impact/">The Manifest V3 Changes — Did Google Just Break Your Ad Blocker? (And What to Do Next) - AdBlock Tester</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#hardware`, `#inference acceleration`, `#OpenAI`, `#Cerebras`
+**Tags**: `#Firefox`, `#uBlock Origin`, `#Manifest V3`, `#browser extensions`, `#ad-blocking`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [systemd-journald write amplification: 49KB+ per log line on ext4](https://github.com/systemd/systemd/issues/40262) ⭐️ 8.0/10
+### [Compiling Doom&\#x27;s Renderer Into a 21B-Parameter Transformer Without Training](https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/) ⭐️ 8.0/10
 
-A GitHub issue \(systemd/systemd\#40262\) reports that systemd-journald can cause massive disk write amplification, writing roughly 49KB or more per single log line on ext4 and 110KB or more on btrfs. The report highlights a significant performance and storage-efficiency concern in a core Linux logging component, and it has drawn broad community attention on Hacker News \(199 points and 124 comments\). The exact causes and conditions behind the per-line write sizes remain tied to the issue report, but the measurements indicate journald&\#x27;s persistent storage format can add large overhead compared with the log message itself. This matters for system administrators because journald is widely used as the default logger on many Linux distributions, making storage I/O and wear a practical concern.
+A Reddit user ported Doom&\#x27;s rendering algorithm into a 21B-parameter transformer by writing a custom compiler that converts computation graphs into transformer weights, eliminating any training. The resulting checkpoint is a standard Hugging Face transformers checkpoint that can be loaded without trust\_remote\_code. Rendering a frame works by feeding the model a 3,614-token prompt representing scene data and generating 53,747 tokens that encode pixel-drawing commands, which are then mechanically applied to produce the E1M1 frame. This process takes just over 40 minutes on an NVIDIA B200, yielding roughly 35 frames per day compared with the original Doom&\#x27;s 35 FPS on a 486. The article includes a 43-line Python host program that loads the checkpoint, performs generation, and parses the output into a frame.
 
-hackernews · ValdikSS · Aug 13, 18:41 · [Discussion](https://news.ycombinator.com/item?id=49290215)
+reddit · r/MachineLearning · /u/notforrob · Aug 14, 15:50
 
-**「Background」** systemd-journald is the logging daemon in systemd-based Linux systems, responsible for collecting and storing log entries in a binary journal format. Traditionally, its design emphasizes append-only writes and mmap-based access for robustness and atomicity, but this issue reports that writing a single log line can cause over 49 KB of disk writes on ext4 and over 110 KB on btrfs, highlighting significant write amplification and performance concerns.
+**「Background」** Doom&\#x27;s renderer is the classic software engine from id Software&\#x27;s 1993 first-person shooter, drawing its levels with raycasting-like techniques on the CPUs of that era. Transformers are neural networks that process sequences and are normally trained on data, but this project instead sets the weights by hand using a compiler, so autoregressive token generation executes the Doom rendering algorithm. The result is a standard Hugging Face checkpoint in the Phi-3 architecture that takes a scene prompt and emits pixel-drawing commands, making the rendered frame equivalent to what the original game produced.
 
-**「Impact」** System administrators using persistent journald storage may face considerably higher disk I/O and storage wear than the size of their log messages suggests, especially on btrfs where the reported overhead is larger. Some users already recommend treating journald as a router and forwarding logs to tools such as rsyslog precisely because of this kind of overhead.
-
-**「Community discussion」** Commenters broadly criticize journald&\#x27;s indexing and storage design, calling it slow and lacking practical controls per log identifier or subsystem, with one noting the current behavior seems far from the original append-only design intent. The common recommendation is to avoid persistent journald storage and instead forward logs to external tools for filtering and retention.
+**「Impact」** For ML researchers and practitioners, this demonstrates that transformer weights can be compiled from arbitrary computation graphs without training, opening a concrete but computationally expensive path for program synthesis and mechanistic interpretability experiments.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://zeli.app/en/story/49290215">systemd - journald writes 49 KB + per log line on ext 4 , 110KB+ on btrfs ...</a></li>
+<li><a href="https://ood.dev/posts/doom/">Doom, compiled into a transformer — Out of Distribution</a></li>
+<li><a href="https://ood.dev/">Out of Distribution — Notes from the tail — long-form, interactive writing on transformers and computation by Rob Porter.</a></li>
+<li><a href="https://doomwiki.org/wiki/Doom_rendering_engine">Doom rendering engine - The Doom Wiki at DoomWiki.org</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#systemd`, `#journald`, `#logging`, `#performance`, `#linux`
+**Tags**: `#transformer`, `#compiler`, `#Doom`, `#neural networks`, `#program synthesis`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [worldproof: Diagnosing World-Model Failures and Pixel-Metric Limits](https://www.reddit.com/r/MachineLearning/comments/1vnliv7/worldproof_diagnosing_where_worldmodel/) ⭐️ 8.0/10
+### [AI Robotic Labs Scale Human Tissue Testing, Could Replace Animal Tests](https://www.fastcompany.com/91589344/the-worlds-largest-biological-datacenter-could-help-make-animal-testing-obsolete) ⭐️ 8.0/10
 
-A new open-source tool, worldproof, diagnoses world-model prediction failures by comparing rollouts against ground truth and physical invariants. Its author found that pixel metrics often cannot rank models on real robot video: a trivial last-frame baseline achieves 0.983 SSIM and 53.9 dB PSNR on a SO-101 arm recording at 30fps, with error that does not grow over a 6-step horizon. On DROID footage, a usable evaluation window exists only around steps 8-24, with dynamic-region SSIM declining monotonically from 0.873 at step 1 to a floor near 0.20 after step 28. The tool is Apache-2.0, installable via pip, runs on a CPU-only laptop, uses n=64 rollouts with interquartile-mean aggregation and bootstrap CIs, and reports LPIPS diverging from other metrics on masked variants for reasons not yet explained.
-
-reddit · r/MachineLearning · /u/georgia\_bucea · Aug 13, 19:58
-
-**「Background」** World models predict future frames from a starting context and an action sequence, and they are commonly evaluated with pixel-level similarity metrics such as SSIM and PSNR. This post introduces a diagnostic tool and demonstrates that on real robot video those metrics can lack discriminative power, making a &\#x27;predict nothing changes&\#x27; baseline competitive with trained models over short horizons.
-
-**「Impact」** For researchers evaluating world models or video predictors on real robot data, this work means pixel metrics like SSIM/PSNR over entire horizons cannot rank models—so evaluations should focus on the separable 8-to-24-step window on DROID-like 15 fps footage \(or an equivalent measured window for their own data\) and should report horizon curves rather than summary scalars, a practice the open-source worldproof tool now supports.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arxiv.org/pdf/1911.01655">High Fidelity Video Prediction with</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#world-models`, `#video-prediction`, `#evaluation-metrics`, `#open-source`, `#machine-learning`
-
----
-
-<a id="item-tech-news-6"></a>
-### [DeepMind SL2T brings sign language-to-text to Pixel 11 keyboard and captions](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/) ⭐️ 8.0/10
-
-Google DeepMind has released SL2T, a large multilingual sign language-to-text model, and integrated it into consumer products for the first time by launching it on the Pixel 11&\#x27;s Gboard keyboard and Live Transcribe real-time captions. The initial deployment supports American Sign Language to English, with plans to expand to more devices and languages. SL2T was trained on over 100,000 hours of data spanning more than 50 sign languages, and it achieves a zero-shot score of 70 BLEURT on the FLEURS-ASL benchmark, far exceeding the previous record. To protect privacy, the model processes only hand and body pose keypoints rather than raw video. This marks the first time DeepMind&\#x27;s sign language AI has been made available directly in consumer devices.
-
-telegram · zaihuapd · Aug 13, 08:55
-
-**「Background」** Sign language translation AI has traditionally struggled with limited data and the need to generalize across many signing styles and languages. DeepMind&\#x27;s new SL2T model is a large-scale multilingual sign-language-to-text model trained on over 100,000 hours of data and 50+ sign languages, using hand and body pose keypoints instead of raw video to protect privacy. It currently supports American Sign Language to English and is debuting in Gboard and Live Transcribe on Pixel 11, with more languages and device support planned.
-
-**「Impact」** Pixel 11 users can now use the first consumer sign language-to-text AI to convert American Sign Language into English through Gboard and Live Transcribe, with privacy preserved because only keypoints are analyzed instead of the original video feed.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/">Putting sign language AI into users’ hands</a></li>
-<li><a href="https://www.cryptopolitan.com/google-deepmind-sign-language-on-pixel-11/">Google DeepMind ships SL2T sign-language model on Pixel 11 - Cryptopolitan</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#Sign Language`, `#DeepMind`, `#Accessibility`, `#Machine Learning`
-
----
-
-<a id="item-tech-news-7"></a>
-### [DeepSeek Harness Released; V4-Pro-0813 Weights Open](https://mp.weixin.qq.com/s/mANdGRI4fO_sEbC1ECEoZQ) ⭐️ 8.0/10
-
-DeepSeek released DeepSeek Harness as an MIT-licensed open-source application and opened the DeepSeek-V4-Pro-0813 model weights on Hugging Face. The Harness uses an everything-is-a-plugin architecture driven by Cordis, allowing models, tools, skills, sessions, sandboxes, storage, scheduling, and UI components to be swapped as plugins, and offers four running modes: Standard, PTC, Minimal, and Creative. The GitHub repository and npm package are available, with the GitHub repo initially appearing later in the day. The Hugging Face model page transiently returned a 404 before being restored. The release is described by an author as an early developer preview with expected rough edges and compatibility-breaking changes.
-
-telegram · zaihuapd · Aug 13, 12:39
-
-**「Background」** DeepSeek is an AI research and development organization known for releasing open-weight large language models. Harness applications in this context typically bundle an agent runtime with model access, tools, session management, and user interfaces; DeepSeek Harness extends that by making every component a hot-swappable plugin through the Cordis plugin framework.
-
-**「Impact」** Developers and agent builders can now inspect and customize a complete agent stack under an MIT license, including append-only session logs that record system prompts, reasoning, tool calls, results, subagent scheduling, and context injections. The open weights for DeepSeek-V4-Pro-0813 provide an alternative for users who want full traceability without the encrypted or obfuscated traces typical of US-based model offerings, though the model page&\#x27;s temporary 404 leaves some uncertainty about long-term availability.
-
-**「Community Discussion」** Commenters highlighted the traceability feature as a standout capability that US models do not allow, and explained that Cordis enables hot-loading and unloading of plugins with state rollback. Others expressed caution: the project is an early preview likely to have breaking changes, one reader found the underlying paper only moderately useful, and another voiced fatigue with products built around an everything-is-a-plugin architecture.
-
-**Tags**: `#DeepSeek`, `#open-source`, `#AI model`, `#Hugging Face`, `#LLM`
-
----
-
-<a id="item-tech-news-8"></a>
-### [X Opens More of Its Ranking Algorithm and Adds Transparency Check](https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/) ⭐️ 8.0/10
-
-X announced an expansion of its open-source efforts by publishing the code for its “For You” timeline and core ranking engine on GitHub under the Apache 2.0 license, with the released code roughly 10 to 15 times larger than previous releases. The company also introduced a transparency tool in its settings that lets users who have posted at least 10 times in the past month download a JSON file showing whether their account or posts have been flagged by ranking systems. The tool is initially available only to test users whose accounts have been registered for at least one year. Some Grok systems used to determine rule-violating content were not disclosed as part of this release, so the open-sourced code does not cover all ranking-related components.
-
-telegram · zaihuapd · Aug 14, 01:03
-
-**「Context」** X \(formerly Twitter\) has a history of partially open-sourcing its recommendation system, but this release expands that effort to include the code behind the “For You” feed and core ranking engine, published under the Apache 2.0 license on GitHub at xai-org/x-algorithm. The new transparency tool is designed to address longstanding “shadowbanning” concerns by letting users check whether their account or posts have been downranked or otherwise affected by the platform&\#x27;s ranking systems. This tool gives eligible accounts a downloadable JSON file showing such impacts, complementing the open-source code with user-facing insight.
-
-**「Impact」** Eligible X users can now check whether their content has been affected by ranking flags, while developers gain access to a substantially larger portion of the ranking engine for audit and research. However, because the Grok-based moderation components remain private, the transparency and auditability are still incomplete.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/">X open sources its ranking algorithm, letting users see if they&#x27;ve been &#x27;shadowbanned&#x27; | TechCrunch</a></li>
-<li><a href="https://www.firstpost.com/tech/x-open-sources-its-ranking-algorithm-lets-users-check-account-level-impacts-14038070.html">X open-sources its ranking algorithm, lets users check account-level impacts</a></li>
-<li><a href="https://github.com/xai-org/x-algorithm">GitHub - xai-org/x-algorithm: Algorithm powering the For You feed on X · GitHub</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#open-source`, `#ranking-algorithm`, `#transparency`, `#social-media`, `#AI`
-
----
-
-<a id="item-tech-news-9"></a>
-### [Gemini 3.7 Flash Arrives with Vision Strength and Time-Limited Pricing](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) ⭐️ 7.0/10
-
-Google introduced Gemini 3.7 Flash, a new API model with competitive vision performance and introductory pricing that is scheduled to double on December 31, 2026; starting January 1, 2027, pricing becomes $1.50 per million input tokens and $7.50 per million output tokens. The model arrives only three weeks after Gemini 3.6 Flash, reflecting Google&\#x27;s rapid release cadence. Early community tests show it handles vision tasks such as image-to-HTML well and performs strongly on the DeepSWE 1.1 benchmark, though commenters note it remains more expensive than GPT-5.6 Luna and call for direct benchmarks against Luna and Terra.
-
-hackernews · thisisauserid · Aug 13, 17:23 · [Discussion](https://news.ycombinator.com/item?id=49289112)
-
-**「Background」** Gemini 3.7 Flash is Google&\#x27;s latest low-cost addition to its Flash model line, released on August 13, 2026, with introductory pricing of $0.75 per million input tokens and $3.75 per million output tokens—a 50% discount versus the post-introductory price of the prior 3.6 Flash model. Google positions it against models such as OpenAI&\#x27;s GPT-5.6 Terra and Muse Spark 1.2 on benchmarks, while OpenAI&\#x27;s two-tier GPT-5.6 lineup includes the cheaper, faster Luna tier, which received an 80% price cut and is relevant to comparisons developers have made.
-
-**「Impact」** Developers who use Flash-series models for low-cost, high-volume text and vision workloads will face a doubled API price in 2027, while cheaper alternatives such as GPT-5.6 Luna may reduce Gemini 3.7 Flash&\#x27;s cost-effectiveness for budget-sensitive applications.
-
-**「Community Discussion」** Commenters shared hands-on tests showing Gemini 3.7 Flash performs well on vision and code-related benchmarks, but several questioned the odd introductory pricing, noted that GPT-5.6 Luna remains cheaper and stronger on benchmarks like DeepSWE 1.1, and argued the Flash lineup is undercut by more cost-efficient rivals.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://felloai.com/gemini-3-7-flash/">Gemini 3.7 Flash: Pricing, Benchmarks and What Changed</a></li>
-<li><a href="https://officechai.com/ai/gemini-3-7-flash-benchmarks/">Google Releases Gemini 3.7 Flash, Competes With GPT 5.6 Terra &amp; Muse Spark 1.2 On Benchmarks</a></li>
-<li><a href="https://muirouter.com/blog/gpt-5-6-price-cut">OpenAI Price Cut: GPT - 5 . 6 Luna &amp; Terra Drop Up to 80% | MuiRouter</a></li>
-<li><a href="https://openai.com/index/gpt-5-6/">GPT - 5 . 6 : Frontier intelligence that scales with your ambition | OpenAI</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#gemini`, `#google ai`, `#model release`, `#vision`, `#api pricing`
-
----
-
-<a id="item-tech-news-10"></a>
-### [Bluesky Introduces Jetstream for Easier AT Protocol Development](https://atproto.com/blog/introducing-bluesky-protocol-services) ⭐️ 7.0/10
-
-Bluesky has announced new protocol services for the AT Protocol, including Jetstream, a service designed to make it easier to consume the Bluesky firehose. The announcement is aimed at developers building on the decentralized social protocol, providing infrastructure that simplifies real-time data access. Jetstream lowers the barrier to entry by allowing direct consumption in browsers without requiring a server, as demonstrated by a developer who updated their browser-based firehose demo. This move supports the broader ecosystem of third-party developers and open-source tooling around the AT Protocol.
-
-hackernews · danabramov · Aug 14, 00:14 · [Discussion](https://news.ycombinator.com/item?id=49293324)
-
-**「Background」** Bluesky is built on the AT Protocol, whose real-time firehose streams all repository events to consumers \(tool-1-1\). The raw firehose uses CBOR binary encoding, which can be difficult to work with, so Bluesky built Jetstream, an open-source Go server that consumes the firehose and fans out to subscribers as simpler JSON events over a websocket \(tool-1-2, tool-1-3\). Jetstream therefore makes it much easier for developers to consume the firehose and build applications on the protocol.
-
-**「Impact」** Developers building on the AT Protocol can now consume the Bluesky firehose directly in a browser without a server, significantly simplifying the creation of real-time Bluesky clients and demos.
-
-**「Community Discussion」** Developers reacted positively to Jetstream&\#x27;s ease of use, with one noting it can be consumed directly in the browser, while others raised concerns about Bluesky&\#x27;s long-term funding and profitability and one developer complained about the atproto Python library&\#x27;s developer experience.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://docs.bsky.app/docs/advanced-guides/firehose">Firehose | Bluesky</a></li>
-<li><a href="https://docs.bsky.app/blog/jetstream">Introducing Jetstream | Bluesky</a></li>
-<li><a href="https://getskyscraper.com/blog/bluesky-firehose-streaming-guide">Bluesky Firehose Explained: Real-Time Data Streaming Guide</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#bluesky`, `#atproto`, `#decentralized-social`, `#protocol`, `#open-source`
-
----
-
-<a id="item-tech-news-11"></a>
-### [Understanding Is the New Bottleneck in AI-Assisted Coding](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck) ⭐️ 7.0/10
-
-The essay &\#x27;Understanding is the new bottleneck&\#x27; argues that as LLMs automate code generation, the critical constraint in software development is becoming human understanding of codebases, not writing code. It contends that the ability to review, reason about, and maintain software now matters more than generation speed. The article includes concrete examples and has drawn broad Hacker News discussion, with 160 comments engaging with its implications for engineering practice. The core claim is that developers&\#x27; comprehension is the limiting factor for safely integrating AI-generated code.
-
-hackernews · sebg · Aug 13, 18:47 · [Discussion](https://news.ycombinator.com/item?id=49290299)
-
-**「Background」** The article is a written version of a talk Geoffrey Litt, a design engineer at Notion, gave at the AI Engineer conference in July 2026. It argues that as LLMs automate code generation, the critical bottleneck in software development is shifting from writing code to human understanding of codebases. Litt suggests techniques such as explanations, micro-worlds, and shared spaces to help developers comprehend AI-generated code.
-
-**「Impact」** For software engineers relying on LLM-generated code, the concrete consequence is that production commits now depend on the developer&\#x27;s own review and understanding of the change, since an LLM cannot take responsibility for the outcome.
-
-**「Community Discussion」** Commenters broadly agree that understanding codebases is the real constraint, but they disagree about whether the problem is new or whether LLM-generated summaries are useful. Several note the bottleneck predates LLMs—citing specs and testing in corporate settings—and warn that using LLMs to generate understanding means losing the human check that catches incorrect code.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck">Understanding is the new bottleneck</a></li>
-<li><a href="https://www.startuphub.ai/ai-news/artificial-intelligence/2026/understanding-is-the-new-bottleneck-in-ai">Understanding is the New Bottleneck in AI | StartupHub.ai</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#software engineering`, `#LLM`, `#code understanding`, `#developer productivity`, `#AI-assisted development`
-
----
-
-<a id="item-tech-news-12"></a>
-### [Choose Boring Technology and Spend Innovation Tokens Wisely](https://mcfunley.com/choose-boring-technology) ⭐️ 7.0/10
-
-The 2015 essay &\#x27;Choose Boring Technology&\#x27; argues that organizations have a fixed supply of &\#x27;innovation tokens&\#x27;—about three per company—and should spend them only on technologies that differentiate their product, choosing boring, proven tools for everything else. The framework helps teams reserve limited capacity for meaningful innovation instead of chasing novelty. The post remains influential in engineering strategy discussions, including recent debates about applying the idea to AI agents by keeping the stack boring while concentrating innovation on agent capabilities. The Hacker News thread shows both strong endorsement from PM and engineering leaders and criticism that the token model is an arbitrary proxy that can blur real tradeoff analysis.
-
-hackernews · tosh · Aug 13, 17:48 · [Discussion](https://news.ycombinator.com/item?id=49289512)
-
-**「Background」** Dan McKinley&\#x27;s 2015 essay &\#x27;Choose Boring Technology&\#x27; argues that companies have a limited budget for innovation, metaphorically &\#x27;innovation tokens,&\#x27; and should spend them only on novel technologies that provide a competitive edge while adopting proven, &\#x27;boring&\#x27; tools for everything else. The piece emerged from McKinley&\#x27;s experience at Etsy and reflects the era&\#x27;s JavaScript framework churn, advocating for conservative tech choices to preserve capacity for meaningful innovation.
-
-**「Impact」** Practicing engineers and product managers report using the innovation-token model to explain technology tradeoffs to colleagues at all levels, providing a shared vocabulary for defending conservative stack choices.
-
-**「Community Discussion」** Commenters largely praise the innovation-token concept as a practical communication tool for tradeoffs, while some push back that &\#x27;new vs. boring&\#x27; is a weak proxy that oversimplifies engineering decisions. Others extend the idea to AI agents, suggesting that keeping the underlying stack boring maximizes the value of innovating on agent technology.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://mcfunley.com/choose-boring-technology">Dan McKinley :: Choose Boring Technology</a></li>
-<li><a href="https://news.ycombinator.com/item?id=49289512">Choose Boring Technology ( 2015 ) | Hacker News</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#software-engineering`, `#technology-strategy`, `#engineering-culture`, `#tradeoffs`
-
----
-
-<a id="item-tech-news-13"></a>
-### [NP-hardness Overrated in Practice?](https://gruhn.me/blog/2026-08-13/) ⭐️ 7.0/10
-
-A blog post at gruhn.me/blog/2026-08-13 argues that NP-hardness is overrated for practical algorithmic problem solving. It contends that the exponential worst-case blowups associated with NP-hard problems often depend on adversarial inputs that rarely occur in real applications. The post therefore advocates heuristic solution techniques and careful formulation of problem instances, rather than treating NP-hardness as a reason to give up. The argument is relevant to software engineers and algorithm designers who routinely encounter packing, scheduling, type-checking, and dependency-resolution problems.
-
-hackernews · theanonymousone · Aug 13, 20:14 · [Discussion](https://news.ycombinator.com/item?id=49291268)
-
-**「Background」** Computational complexity theory classifies problems by how quickly algorithms can solve them as input grows. NP-hard problems are among the hardest: no known efficient polynomial-time algorithm exists for them, and exact solutions can require exponential time in the worst case. In practice, many NP-hard instances encountered in software engineering, such as dependency resolution or type checking, may not hit these explosive worst-case configurations, so heuristics and approximate solvers often work well enough.
-
-**「Impact」** For software engineers facing NP-hard problems like dependency resolution or type checking, the post supports the practical tactic of avoiding or eliminating explosive instances instead of attempting a general solution.
-
-**「Community Discussion」** Commenters largely agreed that practical instances usually avoid NP-hard explosions and that heuristics can work, but several pushed back that complexity classes are still important for theoretical understanding and for recognizing when general problems are &\#x27;impossible&\#x27; unless you eliminate hard configurations. Guvante specifically noted that dependency managers and type systems often block or cordon off entire hard problem spaces, while pron drew an analogy to calculus and stressed that NP-complete is actually on the easier end of some much harder classes.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://news.ycombinator.com/item?id=49291268">NP - Overrated | Hacker News</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#algorithms`, `#complexity theory`, `#NP-hard`, `#software engineering`, `#heuristics`
-
----
-
-<a id="item-tech-news-14"></a>
-### [Following 657,607 Links Reveals Where the Old Web Went](https://0.mk/blog/link-rot) ⭐️ 7.0/10
-
-A data-driven investigation tracked 657,607 links to map link rot and the disappearance of older web content. The study examines where old web pages have gone and the patterns behind web decay, offering a quantitative look at internet history and preservation. The analysis is especially relevant to web developers, archivists, and historians of the internet, though it is not a fundamental paradigm shift. The supplied item does not include specific decay rates or concrete breakdowns, so the exact findings remain unverified.
-
-hackernews · tdx · Aug 13, 17:49 · [Discussion](https://news.ycombinator.com/item?id=49289532)
-
-**「Background」** Link rot is the process by which hyperlinks gradually become unusable, typically because the target page is removed or moved without a redirect, leaving a 404 error. Web archives like the Wayback Machine mitigate this by saving periodic snapshots of pages, though they have limitations such as incomplete coverage or missing interactive elements. This study follows 657,607 links to measure how much of the old web has vanished and to identify patterns in link decay.
-
-**「Impact」** By quantifying link rot at this scale, the analysis gives archivists and developers evidence for prioritizing preservation and link-maintenance efforts, although the absence of specific figures in the summary means the practical scale of decay cannot be precisely stated.
-
-**「Community Discussion」** Commenters mainly debate which era counts as the &\#x27;old web,&\#x27; with suggestions ranging from the pre-Google years, the pre-Facebook blogosphere, and 2009–2014. One commenter counters that websites were always ephemeral &\#x27;shopping windows&\#x27; that change or disappear, so permanence was never guaranteed.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://web.archive.org/web/20250214072411/https://en.wikipedia.org/wiki/Wikipedia:Link_rot">Wikipedia: Link rot - Wikipedia</a></li>
-<li><a href="https://waybackmachine.org.im/">Wayback Machine Official: Archived Web Pages and Internet History</a></li>
-<li><a href="https://hdware.blog/the-legacy-of-old-bom-websites-a-digital-time-capsule/">The Legacy of Old BOM Websites : A Digital Time Capsule - Hdware</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#link-rot`, `#web-preservation`, `#internet-history`, `#data-analysis`, `#web-archiving`
-
----
-
-<a id="item-tech-news-15"></a>
-### [City2Graph: Open-Source Python Library for Urban Heterogeneous Graphs and GNNs](https://www.reddit.com/r/MachineLearning/comments/1vn8oya/city2graph_a_python_library_for_heterogeneous/) ⭐️ 7.0/10
-
-City2Graph is a new Python library that converts geospatial data into analysis-ready heterogeneous graphs for spatial analysis, network analysis, and graph neural networks \(GeoAI\). It builds morphological graphs from OpenStreetMap and Overture Maps, transportation graphs from GTFS and GBFS feeds via DuckDB, mobility and OD flow graphs, and proximity or contiguity graphs \(KNN, Delaunay, Gilbert, Waxman, queen/rook\) under Euclidean, Manhattan, or network distances. The library supports multiple node and edge types with metapath-derived edges and provides conversions between GeoDataFrames, NetworkX, rustworkx, and PyTorch Geometric Data/HeteroData while preserving geometries and attributes. A paper describing the library was published in Computers, Environment and Urban Systems \(volume 130, article 102492\). The project aims to fill a gap in GeoAI tooling by treating urban data as heterogeneous graphs rather than flat feature tables.
-
-reddit · r/MachineLearning · /u/Tough\_Ad\_6598 · Aug 13, 11:59
-
-**「Background」** Heterogeneous graphs contain multiple types of nodes and edges, which are useful for modeling urban systems where buildings, streets, transit stops, and flows have different relationships. Graph neural networks operate on such graph structures, but geospatial data is often stored as flat tables or shapefiles, requiring preprocessing to create graph representations. City2Graph provides ready-made construction functions to bridge this gap.
-
-**「Impact」** Researchers and developers in urban analytics and GeoAI can now standardize the conversion of geographic data into heterogeneous graphs for graph neural networks, reducing duplicated effort and improving reproducibility. The published paper provides a citable reference for academic use.
-
-**Tags**: `#graph-neural-networks`, `#geospatial`, `#python`, `#urban-systems`, `#geoai`
-
----
-
-<a id="item-tech-news-16"></a>
-### [AI Robot Labs Test 3M Human Tissue Samples Yearly, Could Replace Animal Testing](https://www.fastcompany.com/91589344/the-worlds-largest-biological-datacenter-could-help-make-animal-testing-obsolete) ⭐️ 7.0/10
-
-Vivodyne operates robot laboratories south of San Francisco that grow human tissues in closet-sized &quot;hive&quot; setups; its 12 hive labs can run more than 3 million controlled human-tissue tests per year, roughly twice the capacity of all U.S. clinical trials combined. The company says AI designs experiments to better predict drug efficacy and safety, addressing the roughly 90% of clinical trials that fail even after animal testing. If validated, this approach could substantially reduce or eventually eliminate reliance on animal testing, though these claims are company-sourced and not yet independently proven.
+Vivodyne, based south of San Francisco, uses closet-sized robotic laboratories to culture human tissue and AI-designed experiments to better predict drug efficacy and safety. The system currently operates 12 &quot;hive&quot; robotic labs that can run controlled trials on more than 3 million human tissue samples per year, roughly twice the capacity of all U.S. clinical trials combined. About 90% of clinical trials still fail after passing animal testing, highlighting the potential of this approach to reduce reliance on animal models. The company&\#x27;s technology could help make animal testing obsolete if its predictions prove reliably translatable to human outcomes.
 
 telegram · zaihuapd · Aug 14, 01:48
 
-**「Background」** Vivodyne is a biotech company that grows lab-grown human tissues and uses robotic labs to run large-scale biological experiments, generating multi-omic data such as imaging, transcriptomics, and proteomics. The company recently raised $40 million to expand its AI-powered human tissue testing platform, which it describes as the world&\#x27;s largest human biological datacenter. This approach aims to replace or reduce reliance on animal testing, which historically fails to predict human drug responses—about 90% of clinical trials fail after animal testing—by creating rich physiological datasets that can train AI models to better predict drug efficacy and safety.
+**「Background」** Traditional drug development relies on animal testing before human trials, yet a large share of clinical candidates fail after passing animal tests, with some estimates citing a 90–95% failure rate. Vivodyne is building what it calls a “biological datacenter”: wardrobe-sized robotic labs, or HIVEs, that culture thousands of human tissues at a time and run AI-designed experiments to measure drug efficacy and safety. The approach has attracted a $40 million Series A round aimed at replacing animal testing with human-relevant testing at scale.
 
-**「Impact」** For pharmaceutical and biotech researchers, scaling AI-driven human-tissue testing offers a potential path to more predictive preclinical screens and reduced reliance on animal models, but real-world impact depends on independent validation and regulatory acceptance.
+**「Impact」** For drug developers and researchers, Vivodyne&\#x27;s high-throughput human tissue testing could dramatically increase the number of drug candidates screened for human-relevant responses before expensive clinical trials, while reducing dependence on animal models. Widespread adoption remains conditional on demonstrating that these lab results reliably predict actual patient outcomes.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://www.vivodyne.com/">Vivodyne | Make biology computable</a></li>
-<li><a href="https://hlth.com/insights/news/vivodyne-raises-40m-to-transform-drug-development-with-ai-powered-human-tissue-testing-2025-06-03">Vivodyne Raises $40M to Transform Drug Development with...</a></li>
-<li><a href="https://www.bastillepost.com/global/article/6076655-vivodyne-launches-the-worlds-largest-human-biological-datacenter-to-train-the-first-world-model-of-human-biology">Vivodyne Launches the World’s Largest Human Biological Datacenter...</a></li>
+<li><a href="https://www.businesswire.com/news/home/20250528498236/en/Vivodyne-to-Replace-Animal-Testing-With-$40-Million-Funding-to-Reverse-95-Clinical-Trial-Failure-Rate">Vivodyne to Replace Animal Testing With $40 Million Funding to Reverse 95% Clinical Trial Failure Rate</a></li>
+<li><a href="https://www.fastcompany.com/91589344/the-worlds-largest-biological-datacenter-could-help-make-animal-testing-obsolete">The world&#x27;s largest &#x27;biological datacenter&#x27; could help make animal testing obsolete - Fast Company</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#biotech`, `#robotics`, `#drug discovery`, `#lab automation`
+**Tags**: `#AI`, `#Biotech`, `#Drug Discovery`, `#Robotics`, `#Human Tissue`
+
+---
+
+<a id="item-tech-news-6"></a>
+### [Xiaohongshu Open-Sources 280B MoE dots3-note with 16B Active Parameters](https://x.com/dotsstudioai/status/2088083314855018521) ⭐️ 8.0/10
+
+Xiaohongshu&\#x27;s dots lab open-sourced dots3-note preview, the first open-weight model in the dots3 series, on Hugging Face, according to the official dots studio account. The multimodal MoE model has 280B total parameters with only 16B active per inference, supports a 512K context window, and processes text, images, video, and audio. The release introduces TEMPO, a new reinforcement-learning method that trains long-horizon agents using self-critique and test-time value estimation, alongside two real-world agent benchmarks, VibeSearchBench and VibeLifeBench. The open weights and benchmarks make the model and its training approach directly available to AI practitioners.
+
+telegram · zaihuapd · Aug 14, 08:27
+
+**「Background」** Xiaohongshu \(RedNote\) has been releasing open-weight Mixture-of-Experts \(MoE\) models through its Dots lab; for example, prior dots.llm1 had 142B total parameters with 14B active. MoE architectures reduce inference cost by activating only a subset of parameters per token, and the new dots3-note-preview continues this trend with 280B total parameters but only 16B active, while also supporting a 512K-token context. The release also introduces TEMPO, a reinforcement learning method designed to train long-horizon agents, alongside new benchmarks such as VibeSearchBench and VibeLifeBench.
+
+**「Impact」** AI/ML practitioners can now download and run a 280B-parameter multimodal MoE model with only 16B activated parameters and 512K context, enabling efficient long-context agents that handle text, image, video, and audio. The accompanying VibeLifeBench benchmark provides 200 long-horizon tasks across ten everyday-life domains, giving developers a standardized evaluation for proactive life agents, while VibeSearchBench serves as an LLM benchmark for search-related agent behavior.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.com/studio-dots-ai/dots3-note-prev">GitHub - studio-dots-ai/ dots 3 - note -prev: dots 3 note preview · GitHub</a></li>
+<li><a href="https://chats-llm.com/en/blog/dots-llm1-release">Xiaohongshu dots .llm1: 142 B MoE Open Source Release</a></li>
+<li><a href="https://arxiv.org/abs/2608.10875">[2608.10875] VibeLifeBench : Can Your Life Agent Be Proactive and...</a></li>
+<li><a href="https://metatext.io/datasets/vibesearchbench/vibesearchbench">VibeSearchBench / VibeSearchBench Dataset — General... | Metatext</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#open-source`, `#MoE`, `#multimodal`, `#reinforcement-learning`, `#AI`
+
+---
+
+<a id="item-tech-news-7"></a>
+### [PostgreSQL Patches Critical to\_char RCE Flaw CVE-2026-14669](https://www.postgresql.org/support/security/CVE-2026-14669/) ⭐️ 8.0/10
+
+PostgreSQL disclosed CVE-2026-14669, a critical vulnerability in the to\_char\(timestamptz\) function when processing overly long POSIX timezone abbreviations, which can trigger a heap buffer overflow. A database user with the ability to set timezones and low privileges can exploit this to execute arbitrary code with the operating system privileges of the PostgreSQL service process; the issue has a CVSS score of 8.8 but is not remotely exploitable without an account. Affected versions include PostgreSQL before 18.5, 17.11, 16.15, 15.19, and 14.24, covering all supported branches. Because 18.5 was not formally released due to a regression, PostgreSQL 18 users should upgrade directly to 18.6, while users on other versions should upgrade to 17.11, 16.15, 15.19, or 14.24 respectively. The minor release update does not require a database dump or pg\_upgrade; users only need to update the program files and restart the service.
+
+telegram · zaihuapd · Aug 14, 14:35
+
+**「Background」** PostgreSQL&\#x27;s to\_char\(timestamptz\) function formats timestamps as text using a timezone setting, which may include a POSIX-style timezone abbreviation. When the abbreviation is extremely long, the function can overflow a fixed-size heap buffer, allowing an attacker who can control the timezone to execute arbitrary code as the operating system user running the database. The vulnerability affects all supported PostgreSQL branches and is fixed in the upcoming minor releases, which do not require a dump/restore or pg\_upgrade.
+
+**「Impact」** Organizations running affected PostgreSQL branches should update to the fixed minor releases promptly, because any low-privileged database account that can set timezones could gain operating-system-level code execution on the database server.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.postgresql.org/support/security/CVE-2026-14669/">CVE - 2026 - 14669 : PostgreSQL to _ char heap buffer overflow ...</a></li>
+<li><a href="https://vuldb.com/vuln/389416">CVE - 2026 - 14669 PostgreSQL to _ char heap -based overflow</a></li>
+<li><a href="https://security.snyk.io/vuln/SNYK-DEBIAN13-POSTGRESQL17-18760900">CVE - 2026 - 14669 in postgresql -17 | CVE - 2026 - 14669 | Snyk</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#postgresql`, `#security`, `#CVE`, `#database`, `#vulnerability`
+
+---
+
+<a id="item-tech-news-8"></a>
+### [Why Claude Opus 5 Feels Worse to Work With](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) ⭐️ 7.0/10
+
+A developer blog post argues that Claude Opus 5 is harder to work with because its post-training has shifted toward communicating elliptically with other agents rather than plainly with humans. The analysis, shared on Hacker News, says the model is more capable but that people find its phrasing abstract, verbose, and exhausting; commenters report burning through Claude limits, switching back to Claude 4.8, or moving to OpenAI&\#x27;s Sol. The debate centers on whether Anthropic&\#x27;s latest models optimize for human users or for autonomous agent handoffs, and it has become a notable usability complaint among AI practitioners.
+
+hackernews · numeri · Aug 14, 10:12 · [Discussion](https://news.ycombinator.com/item?id=49296740)
+
+**「Background」** Claude Opus 5 is Anthropic&\#x27;s frontier AI model, released on July 24, 2026, with the same list price as its predecessor Opus 4.8 \($5 per million input tokens, $25 per million output tokens\) and availability across Claude.ai, the API, Claude Code, Claude Cowork, Amazon Bedrock, Google Cloud, and Microsoft Foundry. The Hacker News discussion centers on a developer blog post arguing that Opus 5&\#x27;s writing style feels elliptical and overly abstract, with commenters speculating that the model&\#x27;s post-training optimization has shifted toward communicating effectively with other AI agents rather than with humans.
+
+**「Impact」** Affected developers report abandoning Opus 5 for Claude 4.8 or OpenAI Sol specifically because the interaction style feels more draining, even while acknowledging increased capability.
+
+**「Community Discussion」** Commenters mostly agree with the critique, citing examples such as Opus 5 describing a finding as &\#x27;beautiful&\#x27; and &\#x27;confessing&\#x27; mistakes at length. Some speculate that Anthropic&\#x27;s post-training now optimizes for communication between agents rather than for humans, while users mention reverting to Claude 4.8 or switching to OpenAI Sol for less exhausting interactions.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.remio.ai/post/anthropic-google-rivalry-tightens-as-claude-opus-5-raises-the-agent-bar">Anthropic Google Rivalry Tightens as Claude Opus 5 Raises the...</a></li>
+<li><a href="https://ccleaks.com/news/claude-opus-5-launch-july-2026">Claude Opus 5 Anthropic launch on July 24 at $5/$25 | ccleaks News</a></li>
+<li><a href="https://luwai.fr/en/resources/claude-opus-5-cout-agents-ia-pme-2026-07-26">Claude Opus 5 : Anthropic &#x27;s Most Capable AI... | LUWAI Ressources</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#llm`, `#claude`, `#ai-usability`, `#agent-communication`, `#anthropic`
+
+---
+
+<a id="item-tech-news-9"></a>
+### [Mixedbread Unveils Toast 1, a Specialized LLM for Search](https://www.mixedbread.com/blog/toast-1) ⭐️ 7.0/10
+
+Mixedbread announced Toast 1, a specialized LLM designed specifically for search tasks. The model aims to handle complex queries that often require multiple search rounds, potentially offering faster and more accurate answers than traditional retrieval. Although the announcement sparked significant interest on Hacker News, the model is not open-weight, which drew criticism from some developers. The company positions Toast 1 as an alternative to general-purpose models with RAG pipelines, while comparisons to Perplexity and similar search-based cloud providers remain open. More details about how Mixedbread Search works were not fully explained in the announcement.
+
+hackernews · mplappert · Aug 14, 15:07 · [Discussion](https://news.ycombinator.com/item?id=49299746)
+
+**「Background」** Mixedbread is a company focused on retrieval, embeddings, and multimodal search. Toast 1 is its newly introduced search agent, a specialized large language model designed for knowledge-intensive search tasks. It claims to match or outperform Claude Opus 5 and GPT-5.6 Sol on frontier search quality while being up to 10× cheaper and 12× faster, and it works best with Mixedbread Search but can use any search backend.
+
+**「Impact」** The launch could push search-focused model development forward, but the lack of open weights may limit adoption among developers who rely on local or customizable search agents.
+
+**「Community Discussion」** Commenters are enthusiastic about the concept of dedicated search models but disappointed by the closed weights, and several asked for clearer explanations of Mixedbread Search and comparisons to Perplexity, Gemini with search, and Parallel AI.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.mixedbread.com/blog/toast-1">Introducing Toast 1</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#LLM`, `#AI search`, `#specialized models`, `#mixedbread`, `#natural language processing`
+
+---
+
+<a id="item-tech-news-10"></a>
+### [Don&\#x27;t classify. Hallucinate\! Tagging with embeddings](https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/) ⭐️ 7.0/10
+
+Doug Turnbull proposes a practical technique for tagging content with LLMs: instead of asking the model to classify against an existing tag vocabulary, tell it to hallucinate novel tags that fit the content, then use vector embeddings to match those imagined tags to the closest real tags in the existing corpus. Simon Willison highlights the approach as a solution for his own blog&\#x27;s 1,856 tags, which are too many to feed into a single prompt. Turnbull&\#x27;s example prompt includes sample classifications to show the model the shape of the desired tags, such as &quot;Furniture / Living Room Furniture / Coffee Tables &amp; End Tables / Coffee Tables.&quot; The technique matters because it sidesteps prompt-size limits and lets LLMs handle large controlled vocabularies without exhaustive classification lists, while still mapping to concrete existing tags via embeddings.
+
+rss · Simon Willison · Aug 14, 21:54
+
+**「Background」** Many LLM-based classification tasks require choosing from a large, fixed vocabulary of tags or classes, but passing all possible options in a single prompt can be impractical. A common pattern, described by Doug Turnbull, is to let the LLM “hallucinate” plausible but made-up labels that match the content, then use vector embeddings to match those imaginary labels to the closest real entries in the existing vocabulary. This approach converts open-ended generation into a retrieval problem, avoiding the need to enumerate every possible tag in the prompt.
+
+**「Impact」** Developers and content managers working with large tag or category sets can automate tagging and classification more reliably, without needing to fit every possible label into a prompt. The vector-embedding step keeps results tied to an existing taxonomy, avoiding the need to retrain or maintain a bespoke classifier.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications">Don’t classify. Hallucinate!</a></li>
+<li><a href="https://softwaredoug.com/blog/2026/01/08/semantic-search-without-embeddings">Semantic Search Without Embeddings - Doug Turnbull</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#LLM`, `#tagging`, `#embeddings`, `#AI`, `#software-engineering`
+
+---
+
+<a id="item-tech-news-11"></a>
+### [torch-preflight: A Static Linter That Catches PyTorch Training Bugs and Estimates VRAM](https://www.reddit.com/r/MachineLearning/comments/1vo8vv0/a_linter_for_pytorch_torchpreflight_p/) ⭐️ 7.0/10
+
+The newly released torch-preflight is a static linter for PyTorch that detects common training mistakes such as storing loss tensors with autograd graphs, missing zero\_grad\(\) calls, gradient accumulation without loss division, and DDP without a DistributedSampler. It does not import or execute user code, so it requires no GPU or torch installation, and includes a VRAM estimation feature that suggests changes with GiB savings. The project currently has 13 rules and is early-stage; the author reports memory estimates within 4% of measured peaks on four models using one T4. It is available via pip install torch-preflight, with the source on GitHub.
+
+reddit · r/MachineLearning · /u/LeJanbandhu · Aug 14, 14:30
+
+**「Background」** Static analysis linters inspect source code without running it to find likely bugs or style issues. PyTorch training code has several common pitfalls that waste GPU memory by retaining computation graphs or synchronizing incorrectly across distributed workers. torch-preflight applies static analysis specifically to catch these PyTorch-specific patterns.
+
+**「Impact」** PyTorch developers can catch GPU-wasting errors before launching long training runs and get early VRAM fit checks without needing a GPU or installed torch, though the memory numbers are so far validated only on a small test set \(four models on one T4\).
+
+**Tags**: `#PyTorch`, `#linter`, `#machine-learning`, `#developer-tools`, `#GPU`
+
+---
+
+<a id="item-tech-news-12"></a>
+### [Judge Orders Google to Remove Third-Party App Store Warnings](https://www.androidauthority.com/google-play-store-remove-third-party-app-store-friction-3698697/) ⭐️ 7.0/10
+
+A U.S. federal judge, James Donato, ordered Google to remove extra warning and confirmation steps that currently appear when users install third-party Android app stores through the Play Store, giving the company about one week to comply. The court called the multi-step flow, such as requiring users to tap &\#x27;view&\#x27; before &\#x27;install&\#x27; appears, deliberately created &\#x27;anticompetitive friction&\#x27; meant to deter ordinary users. The order stems from Epic Games v. Google, after a jury found Google illegally monopolized Android app distribution. Compliance must make installing competing stores as direct as installing a normal Android app.
+
+telegram · zaihuapd · Aug 14, 09:55
+
+**「Background」** The order stems from Epic Games v. Google, a long-running antitrust case in which Epic, maker of Fortnite, sued Google over restrictions on app developers who sell through the Google Play Store. In that case, a jury found that Google had an illegal monopoly on Android app distribution and payment systems. Judge James Donato&\#x27;s recent ruling requires Google to allow third-party app stores on its platform and remove obstacles to installing them, part of the remedies in that litigation.
+
+**「Impact」** Android users and third-party app store operators will see significantly less friction when installing non-Google stores, as Google must remove extra warning and multi-step dialogs within a week; however, Google may charge third-party stores a $5,000 annual fee for its security and compliance review, and third-party stores are expected to appear in Google Play next week after Epic withdrew its settlement.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Epic_Games_v._Google">Epic Games v . Google - Wikipedia</a></li>
+<li><a href="https://www.eff.org/cases/epic-games-v-google">Epic Games v . Google | Electronic Frontier Foundation</a></li>
+<li><a href="https://www.linkedin.com/news/story/google-ordered-to-open-up-app-store-6188244/">Google ordered to open up app store | LinkedIn</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/">Third-party app stores coming to Google Play next week as Epic settlement withdrawn - Ars Technica</a></li>
+<li><a href="https://www.androidauthority.com/google-play-store-remove-third-party-app-store-friction-3698697/">Google ordered to remove scary warnings when installing third-party app stores</a></li>
+<li><a href="https://www.cynoteck.com/news/google-play-third-party-app-stores-2026">Your Android App Just Went Public on Rival App Stores</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#antitrust`, `#google`, `#android`, `#app-store`, `#tech-industry`
+
+---
+
+<a id="item-tech-news-13"></a>
+### [Apple builds China-specific AI model with Alibaba, eyes first foreign approval](https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/) ⭐️ 7.0/10
+
+Reuters reports, citing unnamed sources, that Apple has trained a China-specific large language model with Alibaba&\#x27;s support, replacing its earlier reliance on third-party models. The model is intended for Apple Intelligence, which is expected to launch in China with an iOS update in the coming months. China&\#x27;s Cyberspace Administration has already filed Apple&\#x27;s generative AI service as of last month, according to the report. If approved, Apple could become the first foreign company allowed by Beijing to offer its own AI model in the country. The report is based on unnamed sources and lacks technical detail.
+
+telegram · zaihuapd · Aug 14, 14:47
+
+**「Background」** Apple Intelligence is Apple&\#x27;s suite of generative AI features, which has not yet been available in China because Chinese regulations require generative AI services to complete formal filing or approval before launch. Foreign technology companies have generally partnered with local providers to meet these requirements, making Alibaba&\#x27;s reported role significant. Alibaba is a major Chinese technology company with its own large language model capabilities.
+
+**「Impact」** The reported plan could make Apple the first foreign company to offer its own AI model in China, affecting Chinese iPhone users by bringing Apple Intelligence to their devices while giving Apple more direct control over the AI experience.
+
+**Tags**: `#Apple`, `#Artificial Intelligence`, `#China`, `#Alibaba`, `#Generative AI`
+
+---
+
+## Technology Blog
+
+<a id="item-tech-blog-1"></a>
+### [Adaptive Speculative Verification in vLLM with DSpark Confidence Scheduling](https://vllm.ai/blog/2026-08-14-dspark-adaptive-verification) ⭐️ 8.0/10
+
+rss · vLLM Blog · Aug 14, 00:00
+
+**「Background」** Speculative decoding trades extra compute for fewer decode steps. The vLLM authors explain that this is nearly free at low batch sizes, but at high concurrency, rejected draft tokens compete with real tokens for compute and can cut throughput, so a static speculation length cannot fit every load.
+
+**「Solution」** DSpark adds a learned confidence head that scores each drafted token&\#x27;s acceptance probability; the vLLM scheduler converts those scores into survival probabilities and verifies only the globally most promising B draft slots, with B chosen per step by maximizing expected tokens per predicted microsecond cost. The budget allocation runs on the GPU from a double-buffered confidence array, and the backend uses varlen decode CUDA graphs. Startup profiling builds cost tables, with monotonicity forced to smooth noise and a sharp cudagraph exit that guides the budget. On DeepSeek-V4-Pro-0813 across concurrency 1–256, adaptive verification stays on the Pareto frontier, behaving like a long draft at low concurrency and a short one at high concurrency. The authors list current limits: full varlen CUDA graphs only on SM100, and no eager mode, LoRA, pipeline parallelism, or output logprobs.
+
+**「Takeaway」** The authors argue this reduces the need to tune num\_speculative\_tokens and makes DSpark an easier on-by-default win — a practical demonstration that verification budgets can be scheduled per step rather than fixed per deployment.
+
+**Tags**: `#speculative decoding`, `#vLLM`, `#cost modeling`, `#CUDA graphs`, `#inference optimization`
 
 ---
 
 ## Financial News
 
 <a id="item-finance-news-1"></a>
-### [Bill Ackman&\#x27;s Pershing Square buys Netflix stake again, saying it has won the streaming wars](https://www.cnbc.com/2026/08/13/ackman-buys-netflix-again-four-years-later-says-it-won-streaming-wars.html) ⭐️ 8.0/10
+### [Berkshire Hathaway boosts Alphabet stake and returns to net stock buying in Q2](https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html) ⭐️ 8.0/10
 
-Bill Ackman&\#x27;s Pershing Square said it has taken a new stake in Netflix, arguing the company has won the streaming wars after its valuation dropped to about 21 times expected future earnings from more than 40 times. Pershing Square disclosed the position in a semiannual report, noting that Netflix&\#x27;s shares are roughly 50% below their June 2025 high of $134.
+Berkshire Hathaway became a net stock buyer in the second quarter, with nearly $20 billion in net purchases; it also raised its Alphabet stake by 83% to $37.9 billion, making Alphabet its third-largest U.S.-listed holding, and increased positions in Delta Air Lines and homebuilders.
 
-rss · CNBC Finance · Aug 13, 18:04
+rss · CNBC Finance · Aug 14, 21:06
 
-**「Background」** Ackman had built a Netflix position in early 2022 but sold the entire stake about three months later after Netflix reported its first subscriber decline in more than a decade.
+**「Background」** Berkshire had been a net seller of stocks for 14 straight quarters before Q2 and had exited airline holdings in 2020; the Alphabet increase partly reflects a $10 billion private stock purchase announced in June.
 
-**Tags**: `#Netflix`, `#Bill Ackman`, `#Pershing Square`, `#Streaming`, `#Valuation`
+**Tags**: `#Berkshire Hathaway`, `#Alphabet`, `#Delta Air Lines`, `#homebuilders`, `#investment strategy`
 
 ---
 
 <a id="item-finance-news-2"></a>
-### [CXMT Overtakes Tencent as China’s Most Valuable Company](https://www.bloomberg.com/news/articles/2026-08-13/cxmt-overtakes-tencent-to-become-most-valuable-chinese-company) ⭐️ 8.0/10
+### [Goldman Sachs profits from AI infrastructure financing](https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html) ⭐️ 8.0/10
 
-CXMT, the Chinese memory-chip maker, has overtaken Tencent to become China’s most valuable listed company: its market capitalization was $524 billion after Thursday’s 1.2% decline, versus Tencent’s $510 billion, according to Bloomberg. The milestone follows CXMT’s Shanghai listing last month, when its shares jumped 467% on the first day and another 8% afterward, while Tencent has fallen more than 26% this year as it increases AI spending.
+Goldman Sachs is helping finance the AI infrastructure boom as a joint book-running manager for Intel’s $20 billion stock offering and Alphabet’s $85 billion stock offering, and as one of six institutions behind Nvidia’s $500 billion financing plan.
 
-telegram · zaihuapd · Aug 13, 10:10
+rss · CNBC Finance · Aug 14, 20:05
 
-**「Background」** CXMT is a Chinese maker of DRAM memory chips based in Hefei; it listed on the Shanghai exchange last month, jumping about 466% on its debut and raising $9.8 billion, making it China&\#x27;s largest onshore-listed company.
+**「Background」** In such deals, a joint book-running manager buys shares from the issuer at a discount and resells them to institutional clients for a fee; Nvidia’s plan, which aims to treat AI compute infrastructure as income-producing collateral, is still non-binding.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
-<li><a href="https://www.linkedin.com/posts/huiyu-winnie-hsu-wh950316_tech-memory-semiconductor-activity-7487436737384771584-UhzD">CXMT IPO : China&#x27;s Largest Onshore-Listed Company ... | LinkedIn</a></li>
+**「Impact」** Alphabet shareholders face dilution from its $85 billion stock sale, while Intel’s proceeds are earmarked to expand its chip foundry business.
 
-</ul>
-</details>
-
-**Tags**: `#CXMT`, `#Tencent`, `#China market cap`, `#semiconductor`, `#IPO`
+**Tags**: `#investment banking`, `#AI infrastructure`, `#equity offering`, `#Goldman Sachs`, `#capital markets`
 
 ---
 
 <a id="item-finance-news-3"></a>
-### [Uber and Pony.ai plan 2,000 robotaxis in Europe](https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html) ⭐️ 7.0/10
+### [Uber and Pony.ai plan 2,000 robotaxis across Europe](https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html) ⭐️ 7.0/10
 
-Uber and Pony.ai announced Friday plans to deploy 2,000 of Pony.ai&\#x27;s self-driving taxis in four additional European cities and expand their robotaxi partnership to the Middle East, building on the Zagreb, Croatia service they launched in late March and describe as Europe&\#x27;s first.
+Uber and Pony.ai plan to deploy 2,000 self-driving taxis across Europe and expand their robotaxi partnership to the Middle East, the companies announced Friday, without naming cities or an exact timeframe.
 
 rss · CNBC Finance · Aug 14, 01:02
 
-**「Background」** The companies did not name the other cities or give an exact timeline, and the expansion comes as Alphabet-backed Waymo, with about 5,000 vehicles mostly in the U.S., tests in London and prepares for global operations.
+**「Background」** In late March, the companies launched what they called Europe&\#x27;s first commercial robotaxi service in Zagreb; Alphabet-backed Waymo is the global leader with about 5,000 vehicles, mostly in the U.S.
 
-**Tags**: `#Uber`, `#Pony.ai`, `#Robotaxi`, `#Autonomous Vehicles`, `#Europe`
+**「Impact」** The expansion intensifies competition among robotaxi operators in Europe, where Waymo, Baidu Apollo Go, and WeRide are also ramping up plans.
+
+**Tags**: `#Uber`, `#Pony.ai`, `#robotaxis`, `#autonomous vehicles`, `#Europe`
 
 ---
 
 <a id="item-finance-news-4"></a>
-### [S&amp;P 500 profit margins hit record 16.9% in Q2, FactSet says](https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html) ⭐️ 7.0/10
+### [Apple Proposes Up to 15% Commission on External Purchases in US App Store](https://9to5mac.com/2026/08/13/apple-proposes-commissions-of-up-to-15-for-off-app-store-purchases-in-the-us/) ⭐️ 7.0/10
 
-The S&amp;P 500&\#x27;s estimated net profit margin for the second quarter is 16.9%, up from 12.9% a year earlier and the highest since FactSet began tracking the measure in 2009, according to FactSet data cited by CNBC.
-
-rss · CNBC Finance · Aug 13, 20:21
-
-**「Background」** Net profit margin is the share of sales left after all expenses; Alphabet and Amazon were the biggest contributors, helped partly by large one-time gains, but even excluding them the margin was a record 15%, according to FactSet.
-
-**「Impact」** The gains were broad-based across eight of the 11 S&amp;P 500 sectors, though Vanguard economist Adam Schickling cautions that rising competition in technology could pressure margins in that sector in the future.
-
-**Tags**: `#S&amp;P 500`, `#profit margins`, `#corporate earnings`, `#FactSet data`, `#stock market`
-
----
-
-<a id="item-finance-news-5"></a>
-### [U.S. President Announces Drone Tariffs Up to 100% on Some Imports](https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/) ⭐️ 7.0/10
-
-The U.S. president signed a proclamation on Aug. 13 imposing tariffs on imported drones and components: from Sept. 3, 2026, drones over 25 kg maximum takeoff weight, drones with thermal imagers, drone base stations, and certain key components will face 100% duties, while drones of 25 kg or less will face 25%. A separate 25% tariff on other drone components will take effect Feb. 9, 2027, with the Commerce secretary authorized to expand coverage.
-
-telegram · zaihuapd · Aug 14, 01:24
-
-**「Background」** The White House said the measures are intended to expand domestic drone production and reduce reliance on foreign sources for critical components, with analysts highlighting China as a key supplier.
-
-**「Impact」** The new tariffs could raise costs for U.S. importers, businesses, and agencies that buy imported drones, especially Chinese-made models already facing combined duties around 170%, potentially pushing up prices and reshaping the U.S. drone market.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.aa.com.tr/en/world/trump-imposes-tariffs-of-up-to-100-on-imported-drones-components/4027001">Trump imposes tariffs of up to 100 % on imported drones , components</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-08-13/trump-imposes-100-tariffs-on-certain-drones-countering-china">Trump Imposes 100 % Tariffs on Some Drones ... - Bloomberg</a></li>
-<li><a href="https://www.datamintelligence.com/news/trump-drone-tariffs-2026-impact-on-global-drone-market-us-china-uav-supply-chain">Trump Drone Tariffs 2026: 100% Duty on Chinese UAV Imports ...</a></li>
-<li><a href="https://www.dslrpros.com/blogs/drone-trends/the-impact-of-tariffs-and-geopolitical-challenges-on-the-drone-industry">The Impact of Tariffs and Geopolitical Challenges on the Drone ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#tariffs`, `#drones`, `#trade policy`, `#United States`, `#import duties`
-
----
-
-<a id="item-finance-news-6"></a>
-### [Apple Proposes Up to 15% Commission for Off-App-Store Purchases in the US](https://9to5mac.com/2026/08/13/apple-proposes-commissions-of-up-to-15-for-off-app-store-purchases-in-the-us/) ⭐️ 7.0/10
-
-Apple has filed a court proposal that would charge US developers commissions of up to 15% for purchases made outside the App Store, with rates of 15% for standard apps, 10% for subscriptions and certain video/news partners, and 5% for small business program apps. This is a proposal subject to court review, not a final policy.
+Apple has proposed commissions of up to 15% for purchases completed outside the US App Store: 15% for standard apps, 10% for partner programs such as video and news, subscription renewals, and 5% for small business program apps. The rates are a proposal in the company&\#x27;s ongoing legal fight with Epic Games and are not yet final.
 
 telegram · zaihuapd · Aug 14, 02:33
 
-**「Background」** The proposal was filed in Apple’s ongoing litigation with Epic Games, after the US Supreme Court declined Apple’s request to pause lower-court proceedings on fee rates.
+**「Background」** The proposal is part of Apple’s long-running antitrust lawsuit with Epic Games over App Store commissions.
 
-**Tags**: `#Apple`, `#App Store`, `#regulation`, `#Epic Games`, `#commissions`
+**「Impact」** If approved, the tiered commissions would affect US developers that direct customers to external payment links, depending on their app size and whether the purchase is a subscription renewal.
+
+**Tags**: `#Apple`, `#App Store`, `#App Store commissions`, `#Epic Games`, `#antitrust`
 
 ---

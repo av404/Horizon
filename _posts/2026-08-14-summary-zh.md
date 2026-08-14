@@ -5,503 +5,411 @@ date: 2026-08-14
 lang: zh
 ---
 
-> 从 48 条内容中筛选出 22 条重要资讯。
+> 从 41 条内容中筛选出 18 条重要资讯。
 
 ---
 
 **科技新闻**
-1. [DRAM“意大利面化”攻击威胁内存隔离](#item-tech-news-1) ⭐️ 9.0/10
-2. [GLM-5.3：后训练扩展带来的前沿编码与网络能力](#item-tech-news-2) ⭐️ 8.0/10
-3. [Cerebras 与 OpenAI 推出 GPT-5.6 Sol Ultrafast，实现约 7 倍推理加速](#item-tech-news-3) ⭐️ 8.0/10
-4. [journald 单条日志引发 49KB 磁盘写入，性能惹争议](#item-tech-news-4) ⭐️ 8.0/10
-5. [worldproof：实测像素指标在真实机器人视频中无法排序模型](#item-tech-news-5) ⭐️ 8.0/10
-6. [DeepMind 推手语转文字模型 SL2T，首次落地 Pixel 11](#item-tech-news-6) ⭐️ 8.0/10
-7. [DeepSeek Harness 开源发布，V4-Pro-0813 权重开放](#item-tech-news-7) ⭐️ 8.0/10
-8. [X 扩大算法开源范围并推出排名透明度工具](#item-tech-news-8) ⭐️ 8.0/10
-9. [谷歌发布 Gemini 3.7 Flash，视觉性能与定价引发讨论](#item-tech-news-9) ⭐️ 7.0/10
-10. [Bluesky 推出协议服务与 Jetstream](#item-tech-news-10) ⭐️ 7.0/10
-11. [理解成为新瓶颈：LLM 改变开发约束](#item-tech-news-11) ⭐️ 7.0/10
-12. [选择无聊的技术：创新代币与工程取舍](#item-tech-news-12) ⭐️ 7.0/10
-13. [NP 困难性真的被高估了吗？](#item-tech-news-13) ⭐️ 7.0/10
-14. [旧网页去哪儿了：65.7 万条链接的链接失效调查](#item-tech-news-14) ⭐️ 7.0/10
-15. [City2Graph：将地理空间数据转为异构图的 Python 库](#item-tech-news-15) ⭐️ 7.0/10
-16. [AI 人体组织实验室年测 300 万样本](#item-tech-news-16) ⭐️ 7.0/10
+1. [GLM-5.3 发布：宣称前沿编码与新兴网络能力](#item-tech-news-1) ⭐️ 9.0/10
+2. [Qwen 3.8 27B：本地小模型推理更强，但 token 和显存开销偏高](#item-tech-news-2) ⭐️ 8.0/10
+3. [Firefox 成为唯一仍支持 uBlock Origin 的主流浏览器](#item-tech-news-3) ⭐️ 8.0/10
+4. [将 Doom 渲染器编译进 210 亿参数 Transformer，零训练实现渲染](#item-tech-news-4) ⭐️ 8.0/10
+5. [AI 人体组织实验规模化，年测 300 万样本有望淘汰动物测试](#item-tech-news-5) ⭐️ 8.0/10
+6. [小红书开源 dots3-note：280B MoE 仅 16B 激活](#item-tech-news-6) ⭐️ 8.0/10
+7. [PostgreSQL 修复 to\_char 高危漏洞，可致任意代码执行](#item-tech-news-7) ⭐️ 8.0/10
+8. [Opus 5 的交流风格为何让开发者感到更吃力？](#item-tech-news-8) ⭐️ 7.0/10
+9. [Mixedbread 发布搜索专用 LLM Toast 1](#item-tech-news-9) ⭐️ 7.0/10
+10. [不要分类，要幻觉：用向量嵌入匹配标签](#item-tech-news-10) ⭐️ 7.0/10
+11. [torch-preflight：捕获 PyTorch 训练错误的静态检查工具](#item-tech-news-11) ⭐️ 7.0/10
+12. [谷歌被令取消第三方应用商店安装障碍](#item-tech-news-12) ⭐️ 7.0/10
+13. [苹果自研中国 AI 大模型，与阿里合作有望率先获批](#item-tech-news-13) ⭐️ 7.0/10
+
+**科技博客**
+1. [DSpark 自适应验证：按置信度保持 Pareto 最优](#item-tech-blog-1) ⭐️ 8.0/10
 
 **财经新闻**
-1. [阿克曼旗下 Pershing Square 重新建仓 Netflix](#item-finance-news-1) ⭐️ 8.0/10
-2. [长鑫存储市值超越腾讯，成为中国市值最高公司](#item-finance-news-2) ⭐️ 8.0/10
-3. [Uber 与 Pony.ai 计划在欧洲部署 2000 辆无人驾驶出租车](#item-finance-news-3) ⭐️ 7.0/10
-4. [标普 500 企业 Q2 净利润率有望创 FactSet 有记录以来新高](#item-finance-news-4) ⭐️ 7.0/10
-5. [美国宣布无人机关税：部分进口机型税率达 100%](#item-finance-news-5) ⭐️ 7.0/10
-6. [苹果提议美国 App Store 外部购买抽成最高 15%](#item-finance-news-6) ⭐️ 7.0/10
+1. [伯克希尔二季度大幅增持 Alphabet，跃升为第三大持仓](#item-finance-news-1) ⭐️ 8.0/10
+2. [高盛借 AI 基建融资热潮获利](#item-finance-news-2) ⭐️ 8.0/10
+3. [Uber 携手 Pony.ai 在欧洲部署 2000 辆自动驾驶出租车](#item-finance-news-3) ⭐️ 7.0/10
+4. [苹果提交美国 App Store 外部购买抽成方案：最高 15%](#item-finance-news-4) ⭐️ 7.0/10
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [DRAM“意大利面化”攻击威胁内存隔离](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) ⭐️ 9.0/10
+### [GLM-5.3 发布：宣称前沿编码与新兴网络能力](https://z.ai/blog/glm-5.3) ⭐️ 9.0/10
 
-硬件安全研究者 Christopher Domas 发布了一个名为“Spaghettifying DRAM”的 GitHub 项目，演示一种针对 DRAM 的攻击技术，可削弱内存隔离并暴露原本属于“负环”的系统资源，可能导致权限提升。项目 README 提到该技术适用于 AMD Jaguar（2013 年架构），并说明 Zen 3 的内存控制器寄存器基地址有所不同；发布同时伴随 Black Hat 演讲。由于原始页面内容未提供，更多受影响 CPU 型号与确切的利用条件尚不明确。
+Z.AI 发布了 GLM-5.3 模型，宣称具备前沿编码能力和新兴的网络攻防能力。据社区用户报告，该模型可自主进行安全研究，包括发现 WordPress 插件中的 0-day 漏洞、实现 RCE，并适配 6.8 内核漏洞利用，且能作为攻击方与另一 GLM 智能体进行红队对抗。Z.AI 还披露了一个漏洞协调披露门户（cvd.z.ai），其中包含大量针对流行软件的高危或严重 CVE。该模型被描述为 GLM 5.2 的后训练迭代，虽然在某些基准上仍落后于 Mythos 5，但社区认为其能力已接近顶级模型。
 
-hackernews · matt\_d · 8月13日 14:17 · [社区讨论](https://news.ycombinator.com/item?id=49286341)
+hackernews · pella · 8月14日 05:19 · [社区讨论](https://news.ycombinator.com/item?id=49294997)
 
-**「背景」** DRAM 加扰（DRAM scrambling）是内存控制器对写入 DRAM 的数据进行重映射或加密的一种机制，用于提升信号完整性和防物理攻击。安全研究员 Christopher Domas 发布了一个名为「skitter-creek-bath-salts」的研究项目，利用 DRAM 加扰机制尝试解锁 CPU 内部原本受限的硬件能力；该项目计划在 Black Hat 2026 以「Spaghettifying DRAM」为题进行演示。
+**「背景」** GLM-5.3 是智谱 AI（Z.ai）最新的旗舰模型，基于与 GLM-5.2 相同的底座，主要改进来自后训练阶段，重点提升复杂软件工程与智能体任务能力。截至 2026 年 7 月 15 日，官方尚未发布正式公告、模型卡或基准测试，但开发者文档和部分测评已流出。第三方测评显示，GLM-5.3 在内部 Code Bench 基准上比前代提升了约 50%，并声称具备前沿编码能力和新兴的网络对抗能力。
 
-**「影响」** 该攻击当前公开实现主要针对 AMD Jaguar 平台，在取得 ring-0 后可能利用 DRAM 隔离缺陷访问底层系统资源；较新的 Zen 2/Zen 3 是否受影响，公开信息仍不明确。外部背景显示，类似的内存完整性攻击并未止步于老架构：AMD 已针对 Zen 2/Zen 3 的 Zenhammer 问题发布 AMD-SB-7021 公告并确认存在“内存完整性”风险，说明 DRAM 层隔离失效在当代平台仍是实际威胁。
+**「影响」** 对于依赖广泛开源软件的组织和个人开发者而言，GLM-5.3 被社区报告为可自主发现并利用 0-day 漏洞，同时 Z.AI 已通过协调漏洞披露（CVD）平台披露大量尚处于禁运期的严重 CVE，这预示着软件维护者将面对由 AI 规模化扫描驱动的漏洞披露压力，并需要更主动地参与协调漏洞披露流程（如 vendor 响应和补丁周期）。不过上述能力目前主要来自社区报告和官方宣传，尚未得到独立验证。
 
-**「社区讨论」** 评论者普遍期待 Black Hat 演讲，并赞赏 Domas 对技术的讲解能力；同时指出 DRAM 因复杂度提升而成为巨大攻击面。也有人认为该技术对用户掌控自己的系统有益，但 Xbox、PlayStation 等平台的安全团队可能感到紧张，并追问除 AMD Jaguar 外还有哪些新款 CPU 受影响。
+**「社区讨论」** 社区反应热烈但态度谨慎。有用户称升级订阅并成功执行了红队安全测试，认为这是首个能无缝完成此类任务的模型；另一些用户则关注大规模漏洞扫描与披露的成本问题，并提到 Anthropic 的 Project Glasswing 也在做类似工作。还有评论指出 GLM-5.3 虽接近 Sol 和 Fable，但尚未构成放弃 OpenAI 的充分经济理由，且文章风格被认为更像研究者所写而非营销宣传。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/xoreaxeaxeax/skitter-creek-bath-salts">GitHub - xoreaxeaxeax/skitter-creek-bath-salts: Unlocking _everything_ on the CPU with DRAM scrambling · GitHub</a></li>
-<li><a href="https://wccftech.com/amd-zen-3-zen-2-cpus-vulnerable-to-zenhammer-prompting-memory-leakage/">AMD&#x27;s Zen 3 &amp; Zen 2 CPUs Now Vulnerable To &quot;Zenhammer&quot;, Prompting Memory Leakage</a></li>
-<li><a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7021.html">AMD Response to “Zenhammer: Rowhammer Attacks on AMD Zen-Based Platforms”</a></li>
+<li><a href="https://kie.ai/blog/what-is-glm-5-3">What Is GLM - 5 . 3 ? Z . ai &#x27;s Next Open-Weight Model</a></li>
+<li><a href="https://docs.z.ai/guides/llm/glm-5.3">GLM - 5 . 3 - Overview - Z . AI DEVELOPER DOCUMENT</a></li>
+<li><a href="https://theunum.io/en/news/read/chinese-startup-z-ai-has-introduced-the-glm-53-language-model-for-programming">Chinese startup Z ai has introduced the GLM - 5 . 3 language model for...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Coordinated_vulnerability_disclosure">Coordinated vulnerability disclosure - Wikipedia</a></li>
+<li><a href="https://www.sei.cmu.edu/blog/protecting-ai-from-the-outside-in-the-case-for-coordinated-vulnerability-disclosure/">Protecting AI from the Outside In: The Case for Coordinated Vulnerability Disclosure | CMU Software Engineering Institute</a></li>
 
 </ul>
 </details>
 
-**标签**: `#DRAM`, `#hardware security`, `#exploit`, `#privilege escalation`, `#security research`
+**标签**: `#AI`, `#coding model`, `#cybersecurity`, `#GLM`, `#frontier model`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [GLM-5.3：后训练扩展带来的前沿编码与网络能力](https://z.ai/blog/glm-5.3) ⭐️ 8.0/10
+### [Qwen 3.8 27B：本地小模型推理更强，但 token 和显存开销偏高](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) ⭐️ 8.0/10
 
-Z.AI 发布 GLM-5.3，这是一个基于 GLM-5.2 基座、仅通过后训练扩展打造的前沿编码模型，并展现出“涌现的网络能力”。该模型在编码任务上接近或比肩 Sol、Fable 等闭源前沿模型，但 Mythos 5 在 181 和 247 个任务上仍保持领先；Z.AI 也承认，越靠近利用链条上端，与闭源前沿的差距越大。社区预计其开放权重将在约两周内发布，并认为该模型自测的 Z.ai Code Bench 较前代提升 50%。GLM-5.3 的发布表明后训练扩展能够大幅提升模型能力，但闭源模型在高端基准上仍具优势。
+Qwen 3.8 27B 是刚刚发布的本地大语言模型，Hugging Face 上提供 FP8 版本，社区讨论主要聚焦于其推理能力的提升。一位用户报告称，这是继 Gemma 4 之后第二个能在其私人基准测试中正确完成推理的本地模型，但为此消耗了约 5 倍的 token，并在启用 MTP 的情况下花费了 12 分 30 秒；另一位用户则称其绘制的“骑自行车鹈鹕”是笔记本电脑可运行模型中表现最好的。相比 Qwen 3.6，该模型的思维链风格变得更简短、类似笔记，同时显存占用似乎效率较低。部分依赖 Ollama 的用户询问如何关闭思考模式，社区给出了通过修改 Jinja 模板来降低或关闭思考的变通方案。
 
-hackernews · pella · 8月14日 05:19 · [社区讨论](https://news.ycombinator.com/item?id=49294997)
+hackernews · erdaltoprak · 8月14日 15:00 · [社区讨论](https://news.ycombinator.com/item?id=49299605)
 
-**「背景」** GLM 是智谱（Z.AI）推出的一系列可本地运行的开源权重模型，此前版本为 GLM-5.2。GLM-5.3 于 2026 年 8 月 14 日发布，官方表示它沿用 GLM-5.2 的基座模型，所有能力提升均来自扩展的后训练（post-training）过程。该版本重点聚焦编程与网络安全（cyber）能力，并提供 API 访问和订阅制 Coding Plan。
+**「背景」** Qwen 3.8 27B 是阿里巴巴于 2026 年 8 月 14 日以 Apache-2.0 开源权重发布的 27B 参数原生视觉语言模型，默认启用思考（thinking）并提供 reasoning\_effort 调节选项，原生上下文长度为 262,144 个令牌。该模型面向本地部署，可通过 vLLM、llama.cpp、Ollama、LM Studio 等工具运行，并提供 FP8 等量化版本。在 Terminal-Bench 2.1 提供商运行评测中得分为 73.0%，但未获得公开总分排名。作为 Qwen 3 系列的增量更新，社区主要关注其在本地硬件上的推理能力、显存占用以及相较于 Qwen 3.6 的变化。
 
-**「影响」** 对于 AI 工程师和研究者，GLM-5.3 提供了开源生态中接近闭源前沿的编码与网络能力，并可通过后训练扩展思路复现部分增益；不过其在高级利用任务上仍落后于 Mythos 5 等闭源模型，且实际部署的经济性和速率限制尚待验证。
+**「影响」** 本地模型使用者可以在笔记本上获得更强的推理表现，但需要接受显著更高的 token 消耗和可能更高的显存开销；依赖 Ollama 并希望禁用思考模式的用户需要借助额外模板，或暂时继续使用 Qwen 3.6。
 
-**「社区讨论」** 社区反响总体积极：有读者称赞博文写法更像研究者而非营销，并认同“后训练扩展”带来的大幅提升；也有评论指出，GLM-5.3 仍略逊于 Sol、Fable，且在 Mythos 5 的 181/247 任务上差距更大，说明闭源前沿仍有优势。还有用户讨论本地量化运行、预计两周后发布权重，以及 Z.AI 编码套餐改为积分后的速率限制是否适合实际工作负载。
+**「社区讨论」** 社区反馈积极但有保留：一方面认可其在私人基准上的推理突破和绘图质量，另一方面指出 token 开销大、显存效率偏低、思维链风格变化明显，并围绕 Ollama 下关闭思考模式提出了具体困惑和变通方案。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/GLM_%28AI%29">GLM (AI) - Wikipedia</a></li>
-<li><a href="https://explainx.ai/blog/glm-5-3-launch-cyber-defense-benchmarks-august-2026">GLM-5.3 Launch: Benchmarks, Pricing &amp; Access (Aug 2026) | explainx.ai Blog | explainx.ai</a></li>
-<li><a href="https://www.unite.ai/z-ai-launches-glm-5-3-with-frontier-coding-and-a-cyber-capability-that-outgrew-its-training/">Z.ai Launches GLM-5.3 With Frontier Coding and a Cyber Capability That Outgrew Its Training – Unite.AI</a></li>
+<li><a href="https://benchlm.ai/models/qwen3-8-27b">Qwen 3 . 8 - 27 B Benchmarks &amp; Context (August 2026) | BenchLM.ai</a></li>
+<li><a href="https://www.youtube.com/watch?v=Fvg8659WQDg">Qwen - 3 . 8 - 27 B Released : Everything you need to Know... - YouTube</a></li>
+<li><a href="https://huggingface.co/Qwen/Qwen3.8-27B">Qwen / Qwen 3 . 8 - 27 B · Hugging Face</a></li>
 
 </ul>
 </details>
 
-**标签**: `#GLM-5.3`, `#artificial intelligence`, `#machine learning`, `#coding`, `#cybersecurity`
+**标签**: `#AI`, `#LLM`, `#Qwen`, `#local-models`, `#reasoning`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [Cerebras 与 OpenAI 推出 GPT-5.6 Sol Ultrafast，实现约 7 倍推理加速](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) ⭐️ 8.0/10
+### [Firefox 成为唯一仍支持 uBlock Origin 的主流浏览器](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html) ⭐️ 8.0/10
 
-Cerebras 与 OpenAI 宣布合作，为 GPT-5.6 Sol 推出“Ultrafast”推理模式，声称在前沿推理任务上可比竞争模型快约 7 倍。根据厂商评估，Ultrafast 模式在 11 小时 11 分钟内完成了全部 2500 个 HLE 问题，而 Claude Fable 5 耗时 78 小时 27 分钟；输出速度上也比 Fable 5 快 11 倍、比 Opus 4.8 的 Fast 模式快 5 倍。该结果来自厂商发布的数据，尚未有第三方验证，且 OpenAI 和 Cerebras 均未明确说明 Ultrafast 模式在准确率上与常规 GPT-5.6 Sol 完全一致。目前也未公布定价信息，可能表明尚在评估需求阶段。
+据 PCWorld 报道，Firefox 目前是唯一仍然支持 uBlock Origin 的主流浏览器，这一变化主要源于 Chrome 的 Manifest V3 对广告拦截扩展 API 的限制。基于 Chromium 的浏览器因此不再能正常使用 uBlock Origin，而 Firefox 保留了相关的扩展能力，并对热门推荐扩展进行代码审查。这一局面凸显了浏览器扩展生态中关于扩展 API、用户选择与广告拦截能力的持续争议。
 
-hackernews · pr337h4m · 8月13日 18:10 · [社区讨论](https://news.ycombinator.com/item?id=49289844)
+hackernews · DemiGuru · 8月14日 19:03 · [社区讨论](https://news.ycombinator.com/item?id=49303202)
 
-**「背景」** Cerebras 是一家以晶圆级芯片和人工智能加速硬件闻名的公司，此次与 OpenAI 合作，为其 GPT-5.6 Sol 模型提供“Ultrafast”推理模式。该模式已通过 OpenAI API 提供，据称可将输出速度提升至每秒最多 750 个 token，整体速度最高达原来的 14 倍，旨在以更低延迟提供前沿模型能力。
+**「背景」** uBlock Origin 是一款免费开源的内容过滤和广告拦截浏览器扩展，原本可在 Firefox 和基于 Chromium 的浏览器中使用。Google 在 Chrome 中推行 Manifest V3 扩展规范，限制了这类扩展依赖的 API，导致 Chrome、Edge 等 Chromium 浏览器逐步停止完整支持 uBlock Origin。Firefox 仍支持 uBlock Origin 的完整功能，因此成为唯一仍支持该扩展的主流浏览器。
 
-**「影响」** 若性能等效性得到确认，这一速度提升可将大规模推理评估从数天压缩至数小时，显著降低使用前沿模型进行科研、编码等长时推理任务的时间成本，但具体可用性、价格及性能一致性仍有待官方进一步披露。
+**「影响」** 由于 Manifest V3 的规则限制，Chrome 及其他基于 Chromium 的浏览器中 uBlock Origin 等广告拦截扩展的能力被削弱，而 Firefox 成为唯一仍支持完整版 uBlock Origin 的主流浏览器，这使 Firefox 用户保留了更强的广告拦截能力，Chrome 用户则只能选择受限版本。
 
-**「社区讨论」** 有评论认为速度对思维质量的影响常被低估，因为更多迭代和修订能带来更好的结果；但也有评论指出，Cerebras 和 OpenAI 都没有明确声明 Ultrafast 模式的准确率与常规版完全相同，且定价缺失可能说明产品尚未成熟或价格不菲。
+**「社区讨论」** 评论中普遍对谷歌推动 Manifest V3 表示不满，有用户指出扩展本应让用户执行浏览器默认不允许的操作，但现在的 API 已被削弱。另有用户补充称，Firefox 是唯一在每次更新时审查 uBlock Origin 代码、以检查是否插入间谍软件或恶意程序的主流浏览器，还有人因这一变化关闭了自己的扩展并呼吁支持 Firefox。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai">Accelerating GPT-5.6 Sol Ultrafast with OpenAI</a></li>
-<li><a href="https://www.globenewswire.com/news-release/2026/08/13/3344804/0/en/cerebras-powers-ultrafast-mode-for-openai-s-gpt-5-6-sol.html">Cerebras Powers Ultrafast Mode for OpenAI’s GPT-5.6 Sol</a></li>
-<li><a href="https://openai.com/index/previewing-ultrafast/">Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed | OpenAI</a></li>
+<li><a href="https://en.wikipedia.org/wiki/UBlock_Origin">uBlock Origin - Wikipedia</a></li>
+<li><a href="https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html">Firefox is now the last major browser that still supports uBlock Origin</a></li>
+<li><a href="https://9to5windows.com/firefox-last-major-browser-supporting-ublock-origin/">Firefox Confirms It Remains the Last Major Browser Supporting ...</a></li>
+<li><a href="https://adblock-tester.com/ad-blockers/manifest-v3-ad-blocker-impact/">The Manifest V3 Changes — Did Google Just Break Your Ad Blocker? (And What to Do Next) - AdBlock Tester</a></li>
+<li><a href="https://www.iplocation.net/blog/how-manifest-v3-is-reshaping-the-browser-extension-ecosystem-in-2026">How Manifest V3 Is Reshaping the Browser Extension Ecosystem in 2026</a></li>
+<li><a href="https://opsmatters.com/posts/how-ad-blocking-works-2026-what-still-works-after-manifest-v3">How Ad Blocking Works in 2026: What Still Works After Manifest V3 | OpsMatters</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#hardware`, `#inference acceleration`, `#OpenAI`, `#Cerebras`
+**标签**: `#Firefox`, `#uBlock Origin`, `#Manifest V3`, `#browser extensions`, `#ad-blocking`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [journald 单条日志引发 49KB 磁盘写入，性能惹争议](https://github.com/systemd/systemd/issues/40262) ⭐️ 8.0/10
+### [将 Doom 渲染器编译进 210 亿参数 Transformer，零训练实现渲染](https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/) ⭐️ 8.0/10
 
-GitHub 上的 systemd issue \#40262 由 ValdikSS 提交，报告 systemd-journald 在 ext4 上每记录一条日志行会产生至少 49KB 的磁盘写入，在 btrfs 上则超过 110KB，引发关于日志存储效率和性能的讨论。该数字远高于普通日志内容本身，意味着 journald 的持久化机制存在显著的写放大问题。由于 journald 是 Linux 核心组件，许多服务器使用它做日志持久化，这类开销会影响存储寿命与 I/O 性能。Hacker News 上该话题获得 199 分和 124 条评论，社区普遍批评 journald 的索引与过滤能力。
+一位开发者用自己编写的编译器将 Doom 的渲染算法编译进一个 210 亿参数的 Transformer 中，整个过程没有进行任何训练。生成的检查点是标准 Transformers 格式，可直接用 Hugging Face 加载，无需 trust\_remote\_code。渲染时，模型接收一个表示场景数据的提示词，并生成包含像素绘制命令的令牌序列，机械执行这些命令即可得到 E1M1 画面。单帧渲染需要 3614 个输入令牌和 53747 个生成令牌，在 B200 上耗时约 40 分钟；原始 Doom 在 486 上可达 35 FPS，而该方法在 B200 上仅约 35 帧每天。加载检查点并完成渲染解析的主机程序只有 43 行 Python。
 
-hackernews · ValdikSS · 8月13日 18:41 · [社区讨论](https://news.ycombinator.com/item?id=49290215)
+reddit · r/MachineLearning · /u/notforrob · 8月14日 15:50
 
-**「背景」** systemd-journald 是 systemd 的日志收集与存储组件，默认将日志以二进制 journal 格式持久化到 /var/log/journal。该格式借鉴 git 仓库，采用仅追加设计以保证 mmap 访问下的原子性和健壮性，但每次写入会伴随元数据更新与文件系统事务开销。ext4 和 btrfs 对这类小追加写入的分配与一致性处理不同，导致不同文件系统上单条日志触发的磁盘写入量差异显著，例如本议题中 ext4 约 49KB、btrfs 约 110KB。
+**「背景」** Doom（1993）的渲染引擎是一个将 3D 场景转换为 2D 画面的经典程序，基于射线投射等技术，在当时的 486 处理器上即可达到每秒 35 帧。这个项目不是训练神经网络，而是用一个自定义编译器把计算图直接映射为 Transformer 权重，生成一个基于 Phi-3 架构、约 210 亿参数的标准检查点；加载后通过自回归生成令牌来输出绘制命令，从而还原 Doom 的 E1M1 画面。这种“手工编译权重”的思路展示了计算图与 Transformer 前向传播之间的对应关系。
 
-**「影响」** 对运行 systemd-journald 并启用持久化日志的系统管理员和开发者而言，该问题意味着大量日志写入会转化为不成比例的高磁盘 I/O，可能加剧 SSD 磨损并拖慢系统；具体受影响程度仍取决于文件系统、日志密度和存储配置。
-
-**「社区讨论」** 评论者普遍认为 journald 是 systemd 生态中最差的部分之一，批评其索引慢、无法按单个标识符截断日志，也难以过滤聊天式子系统；例如有评论提到文件选择器会触发大量无意义日志，也有人建议只把 journald 当作路由并改用 rsyslog 等外部工具过滤和存储。
+**「影响」** 这一演示为研究者和开发者提供了一种无需训练即可将计算图编译为 Transformer 权重的可行路径，并可通过标准模型库加载运行，但当前极低的渲染速度使其更像一项技术验证而非实用方案。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://zeli.app/en/story/49290215">systemd - journald writes 49 KB + per log line on ext 4 , 110KB+ on btrfs ...</a></li>
+<li><a href="https://ood.dev/posts/doom/">Doom, compiled into a transformer — Out of Distribution</a></li>
+<li><a href="https://ood.dev/">Out of Distribution — Notes from the tail — long-form, interactive writing on transformers and computation by Rob Porter.</a></li>
 
 </ul>
 </details>
 
-**标签**: `#systemd`, `#journald`, `#logging`, `#performance`, `#linux`
+**标签**: `#transformer`, `#compiler`, `#Doom`, `#neural networks`, `#program synthesis`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [worldproof：实测像素指标在真实机器人视频中无法排序模型](https://www.reddit.com/r/MachineLearning/comments/1vnliv7/worldproof_diagnosing_where_worldmodel/) ⭐️ 8.0/10
+### [AI 人体组织实验规模化，年测 300 万样本有望淘汰动物测试](https://www.fastcompany.com/91589344/the-worlds-largest-biological-datacenter-could-help-make-animal-testing-obsolete) ⭐️ 8.0/10
 
-作者发布开源诊断工具 worldproof（Apache-2.0，pip install worldproof），用于定位世界模型预测在何处及为何失效。验证工具时发现，在真实 SO-101 机械臂录像（30fps、三摄像头、64 条 rollout、6 步 horizon、仅动态区域评分）中，“复制最后一帧”的朴素基线达到 0.983 SSIM 和 53.9 dB PSNR，且误差随 horizon 不增长，导致模型无法被像素指标排序。对 DROID 数据（15fps、48 步）的测量显示三个区间：1–3 步全部接近完美并列，4–24 步单调下降是唯一可分区间，28 步后约 0.20 SSIM/10.3 dB 触底震荡。作者因此建议在自身数据上测量可用评估窗口，并指出包含 step 0 会把标量指标抬高（30fps 时 step 0 为 119.8 dB）。工具可直接读取 Hugging Face 的 LeRobotDataset v3.0（parquet/mp4），核心依赖只需 numpy、torch、pillow，无需 GPU。
-
-reddit · r/MachineLearning · /u/georgia\_bucea · 8月13日 19:58
-
-**「背景」** 世界模型是一类从起始帧和动作序列预测未来帧的模型，常用 SSIM、PSNR、LPIPS 等像素指标衡量预测质量。像素指标在干净数据集上能通过排序测试，但在真实机器人视频中，场景往往大部分静止或变化缓慢，因此“预测什么都不变”的基线就能获得很高分数，使指标失去区分力。
-
-**「影响」** 对于在真实机器人视频上评估世界模型或视频预测模型的研究者与开发者，这项发现意味着常用的像素级指标（如 SSIM/PSNR）可能无法区分模型优劣：一个简单的“复制最后一帧”基线在 SO-101 数据上达到 0.983 SSIM 和 53.9 dB PSNR，且误差随预测步长不增长，导致所有模型在该评估下表现相似；而在 DROID 数据上，模型仅在约 8 到 24 步的区间内可被区分，两端均因饱和或完全去相关而失效。因此，评估设置需要单独设计，不能直接继承其他论文的默认时长，并应以曲线而非平均标量报告结果。
-
-**标签**: `#world-models`, `#video-prediction`, `#evaluation-metrics`, `#open-source`, `#machine-learning`
-
----
-
-<a id="item-tech-news-6"></a>
-### [DeepMind 推手语转文字模型 SL2T，首次落地 Pixel 11](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/) ⭐️ 8.0/10
-
-谷歌 DeepMind 发布大规模多语言手语转文字模型 SL2T，并首次将其带入消费产品：率先支持美国手语转英语，已在 Pixel 11 的 Gboard 和 Live Transcribe 中上线，后续将扩展至更多设备和语言。该模型使用超过 10 万小时、50 多种手语数据训练，在 FLEURS-ASL 基准上零样本得分为 70 BLEURT，显著高于此前纪录。为保护隐私，SL2T 只处理手部与身体姿态关键点，不读取原始视频。此次发布意味着手语 AI 从研究走向实际设备级应用，对失聪与听障用户的无障碍交互具有直接意义。
-
-telegram · zaihuapd · 8月13日 08:55
-
-**「背景」** SL2T（手语转文本）是 Google DeepMind 新发布的大规模多语言手语翻译模型，能将手语姿态实时转换为文本。与以往通用型模型不同，它专门针对手语任务设计，使用超过 10 万小时、50 多种手语数据训练，当前先支持美国手语转英语。为保护隐私，模型只处理手部和身体姿态关键点，不读取原始视频，这也便于在 Pixel 设备上本地运行并逐步扩展更多语言。
-
-**「影响」** Pixel 11 上使用美国手语的用户可在 Gboard 和 Live Transcribe 中直接获得手语转文字能力，后续语言和设备扩展将决定这一功能对更广泛听障群体的实际覆盖程度。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/">Putting sign language AI into users’ hands</a></li>
-<li><a href="https://www.cryptopolitan.com/google-deepmind-sign-language-on-pixel-11/">Google DeepMind ships SL2T sign-language model on Pixel 11 - Cryptopolitan</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#Sign Language`, `#DeepMind`, `#Accessibility`, `#Machine Learning`
-
----
-
-<a id="item-tech-news-7"></a>
-### [DeepSeek Harness 开源发布，V4-Pro-0813 权重开放](https://mp.weixin.qq.com/s/mANdGRI4fO_sEbC1ECEoZQ) ⭐️ 8.0/10
-
-DeepSeek 当日发布了全新 Harness 应用，并以 MIT 协议开源，GitHub 仓库为 deepseek-ai/deepseek-harness。该应用采用“一切皆插件”的架构，将模型、工具、技能、会话、沙箱、存储、调度和 UI 都设计为可替换插件，底层由 Cordis v4 驱动，并提供标准、PTC、极简和创造四种运行模式。同时 DeepSeek-V4-Pro-0813 权重已在 Hugging Face 开放，但页面曾短暂出现 404 后恢复。据团队成员说明，该版本只是早期开发者预览版，预计会有不少粗糙之处和破坏性兼容变更。
-
-telegram · zaihuapd · 8月13日 12:39
-
-**「背景」** Harness 是一种面向大模型应用编排的框架类工具，把模型调用、工具调用、会话状态、沙箱执行等能力拆成可替换插件，核心是支持插件动态加载与卸载。Cordis 是一套能在进程运行中热加载并卸载插件、同时回滚副作用状态的框架，此前在 Koishi 项目中使用 v3，本次使用了今日发布的新版 Cordis v4。DeepSeek-V4-Pro-0813 是 DeepSeek 对外开放的模型权重版本。
-
-**「影响」** 对 DeepSeek 模型使用者和应用开发者而言，Harness 提供了一个可自由使用的 MIT 协议插件化应用框架，且其会话日志可记录模型所见全部内容，便于复现、搜索和派生运行；需要注意当前是早期预览版，后续可能存在破坏性接口变更。
-
-**「社区讨论」** DeepSeek Harness 作者在评论中确认这是早期开发者预览版，并欢迎反馈和建议。有评论称赞其“每次运行都可追踪”、会话日志记录系统提示、推理、工具调用和子代理调度的能力是杀手级特性，也有评论认为其核心创新有限，只是把热重载插件系统扩展到 UI 等领域，另有开发者表示对“一切皆插件”的架构已产生插件疲劳。
-
-**标签**: `#DeepSeek`, `#open-source`, `#AI model`, `#Hugging Face`, `#LLM`
-
----
-
-<a id="item-tech-news-8"></a>
-### [X 扩大算法开源范围并推出排名透明度工具](https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/) ⭐️ 8.0/10
-
-X 宣布扩大算法开源范围，将“为你推荐”时间线及核心排名引擎代码发布到 GitHub，采用 Apache 2 许可证，代码规模约为此前开源内容的 10 至 15 倍。同时，X 在设置中推出透明度工具，近一个月发帖 10 次或以上的用户可下载 JSON 文件，查看账号或帖子是否被排名系统标记。该工具先向账号注册满一年的测试用户开放，而部分用于判断违规内容的 Grok 系统并未公开。此举有助于提升平台问责和推荐算法的可审查性，但仍保留一定透明度限制。
-
-telegram · zaihuapd · 8月14日 01:03
-
-**「背景」** X（原 Twitter）长期以来使用内部算法决定“为你推荐”时间线中的帖子排序，并可能对部分账号或内容进行降级或隐藏，即所谓的“影子封禁”（shadowban）。此次 X 将核心排名引擎和“为你推荐”算法代码以 Apache 2.0 许可证发布到 GitHub，并推出透明度工具，让用户检查自身账号或帖子是否受排名系统影响。此前 X 曾在 2023 年公开过部分推荐算法代码，但此次规模约为之前的 10 至 15 倍，同时部分用于判断违规内容的 Grok 系统代码仍未公开。
-
-**「影响」** 这一变化直接让高频发帖用户能够自查账号或帖子是否被排名系统标记，并使外部开发者可以审查推荐引擎，不过用于违规内容判断的部分 Grok 系统未公开，透明范围仍有保留。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/">X open sources its ranking algorithm, letting users see if they&#x27;ve been &#x27;shadowbanned&#x27; | TechCrunch</a></li>
-<li><a href="https://github.com/xai-org/x-algorithm">GitHub - xai-org/x-algorithm: Algorithm powering the For You feed on X · GitHub</a></li>
-
-</ul>
-</details>
-
-**标签**: `#open-source`, `#ranking-algorithm`, `#transparency`, `#social-media`, `#AI`
-
----
-
-<a id="item-tech-news-9"></a>
-### [谷歌发布 Gemini 3.7 Flash，视觉性能与定价引发讨论](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) ⭐️ 7.0/10
-
-Google 推出了新一代模型 Gemini 3.7 Flash，其视觉能力表现具有竞争力，并提供了引人注目的 API 首发定价。社区成员提到它在 DeepSWE 1.1 等基准上表现不错，但根据 API 文档和社区讨论，该模型的定价计划在 2026 年 12 月 31 日或 2027 年 1 月 1 日翻倍，且与上一代 3.6 Flash 发布仅相隔约三周，迭代节奏很快。与 Opus 5 等更强模型相比，Gemini 3.7 Flash 在价格接近的竞品中显得性价比突出，尤其适合低成本、高吞吐量的文本和视觉任务。开发者的 API 参考文档已经发布，社区正在围绕截图转 HTML、推理档位和定价策略进行评测与比较。
-
-hackernews · thisisauserid · 8月13日 17:23 · [社区讨论](https://news.ycombinator.com/item?id=49289112)
-
-**「背景信息」** Gemini 3.7 Flash 是谷歌于 2026 年 8 月 13 日发布的轻量级 AI 模型，以每百万输入 token 0.75 美元、每百万输出 token 3.75 美元的入门价格提供，这是与 3.6 Flash 相同的促销定价，并计划在 2026 年 12 月 31 日后翻倍。该模型在视觉任务和编码基准（如 DeepSWE 1.1）上表现出竞争力，同时面临来自 OpenAI GPT-5.6 Luna 和 Terra 等更便宜或性能更强的模型的竞争。社区讨论强调其定价结构、与同类模型的对比，以及快速迭代的发布节奏。
-
-**「影响」** 在首发优惠期内，Gemini 3.7 Flash 为需要低成本视觉/文本 API 的开发者提供了有吸引力的选择，但 2026 年底或 2027 年初价格翻倍意味着长期成本规划存在不确定性。
-
-**「社区讨论」** 社区中，@jjcm 的图片转 HTML 测试显示 Gemini 3.7 Flash 表现不错，但仍不如 Opus 5；@simonw 则认为首发定价“奇怪”，因为价格会在 2026 年底翻倍且 3.6 Flash 三周前才刚发布；也有用户认为与价格更低的 Luna 相比，Flash 的吸引力被削弱。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.buildfastwithai.com/blogs/gemini-3-7-flash-review">Gemini 3.7 Flash Review: Benchmarks, Price &amp; the Catch (2026)</a></li>
-<li><a href="https://felloai.com/gemini-3-7-flash/">Gemini 3.7 Flash: Pricing, Benchmarks and What Changed</a></li>
-<li><a href="https://officechai.com/ai/gemini-3-7-flash-benchmarks/">Google Releases Gemini 3.7 Flash, Competes With GPT 5.6 Terra &amp; Muse Spark 1.2 On Benchmarks</a></li>
-
-</ul>
-</details>
-
-**标签**: `#gemini`, `#google ai`, `#model release`, `#vision`, `#api pricing`
-
----
-
-<a id="item-tech-news-10"></a>
-### [Bluesky 推出协议服务与 Jetstream](https://atproto.com/blog/introducing-bluesky-protocol-services) ⭐️ 7.0/10
-
-Bluesky 推出了“协议服务”（Bluesky Protocol Services），其中公开的 Jetstream 工具旨在让开发者更容易消费 Bluesky 的 firehose，并基于 AT Protocol 构建应用。Jetstream 无需服务器即可直接在浏览器中接入数据流，显著降低了实时观察网络事件的入门门槛。该消息在开发社区中获得了积极反馈，已有开发者将浏览器演示切换到 Jetstream。与此同时，社区也提出了对 Bluesky 长期资金可持续性以及 AT Protocol 客户端库质量的质疑。
-
-hackernews · danabramov · 8月14日 00:14 · [社区讨论](https://news.ycombinator.com/item?id=49293324)
-
-**「背景」** Bluesky 基于 AT Protocol 构建，其核心实时数据流称为 firehose，默认通过 \`com.atproto.sync.subscribeRepos\` 推送每一条公开事件，原始格式为 CBOR。Jetstream 是由 Bluesky 推出的开源服务（Go 实现），它订阅 firehose 后将事件重新打包为更简单的 JSON 格式，再分发给多个订阅者，方便自托管和浏览器端直接消费。因此开发者无需直接解析原始订阅源，就能接入 Bluesky 的实时数据。
-
-**「影响」** 对 AT Protocol 开发者而言，Jetstream 提供了一条更简单的实时数据消费路径，可以直接在浏览器中连接并查看事件流，从而降低构建轻量客户端和演示工具的门槛。
-
-**「社区讨论」** 开发者普遍认可 Jetstream 的易用性，Simon Willison 展示了无需服务器即可在浏览器中实时查看事件流的演示。与此同时，社区中存在分歧：有人质疑 Bluesky 的 VC 资金不可持续且缺乏盈利模式，也有人抱怨 atproto Python 客户端库体验较差，还有人提出基于该协议构建去中心化 DNS 的构想。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://docs.bsky.app/docs/advanced-guides/firehose">Firehose | Bluesky</a></li>
-<li><a href="https://docs.bsky.app/blog/jetstream">Introducing Jetstream | Bluesky</a></li>
-
-</ul>
-</details>
-
-**标签**: `#bluesky`, `#atproto`, `#decentralized-social`, `#protocol`, `#open-source`
-
----
-
-<a id="item-tech-news-11"></a>
-### [理解成为新瓶颈：LLM 改变开发约束](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck) ⭐️ 7.0/10
-
-这篇由 Geoffrey Litt 撰写、2026 年 7 月 2 日发布在 geoffreylitt.com 并提交到 Hacker News 的文章提出，在大语言模型（LLM）自动化代码生成之后，软件开发的关键约束已从“写代码”变为“人类对代码库的理解”。文章认为，工程师需要花更多精力阅读、解释和验证代码，尤其是 LLM 生成的代码；而 LLM 本身无法可靠地承担这种理解责任。该观点在 Hacker News 上获得 160 条评论，讨论涉及 LLM 生成的 PR 描述、代码审查以及理解瓶颈对工程管理和团队流程的影响。文章既承认问题在 LLM 出现前就存在，也强调 LLM 让这一瓶颈更加突出。
-
-hackernews · sebg · 8月13日 18:47 · [社区讨论](https://news.ycombinator.com/item?id=49290299)
-
-**「背景」** 这篇文章是 Geoffrey Litt 在 2026 年 7 月 AI Engineer 大会上的演讲的文字版，他当时是 Notion 的设计工程师。文章认为，随着 LLM 自动化代码生成，软件开发的瓶颈不再是编写代码，而是人类对代码库的理解；为此他提出了解释、微世界（micro-worlds）和共享空间等帮助加深理解的方法。
-
-**「影响」** 对于使用 LLM 辅助编码的工程师与团队，最直接的后果是必须把更多时间投入代码阅读、理解和人工审查，而不能依赖 LLM 生成的描述或解释；否则 LLM 生成的错误可能被其自身的“理解”所掩盖。
-
-**「社区讨论」** 评论者普遍认可“理解是瓶颈”的判断，但指出这一问题早于 LLM：例如有评论认为“能工作却破坏底层模型的代码”只有持有模型标准的人或系统才能识别。也有人反馈 LLM 生成的 PR 描述因只讲机制改动、缺少动机而不受欢迎，并且如果让 LLM 生成理解，就无法用理解去校验 LLM 本身的错误；另有评论强调瓶颈常取决于具体环境，可能是规格与测试。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck">Understanding is the new bottleneck</a></li>
-<li><a href="https://www.startuphub.ai/ai-news/artificial-intelligence/2026/understanding-is-the-new-bottleneck-in-ai">Understanding is the New Bottleneck in AI | StartupHub.ai</a></li>
-
-</ul>
-</details>
-
-**标签**: `#software engineering`, `#LLM`, `#code understanding`, `#developer productivity`, `#AI-assisted development`
-
----
-
-<a id="item-tech-news-12"></a>
-### [选择无聊的技术：创新代币与工程取舍](https://mcfunley.com/choose-boring-technology) ⭐️ 7.0/10
-
-这篇 2015 年的文章提出，工程团队应优先选择成熟、&\#x27;无聊&\#x27;的技术，以节省有限的创新能力用于真正需要创新的领域。文章引入&\#x27;创新代币&\#x27;（每个公司在一段时间内大约只有三个）作为决策框架，帮助工程师和领导者权衡技术选型的风险与收益。这个框架至今仍被广泛讨论，尤其在技术战略和工程文化领域具有持续影响力。文章的核心观点是，采用新技术并不天然更好，需要以可量化的方式评估真实收益。
-
-hackernews · tosh · 8月13日 17:48 · [社区讨论](https://news.ycombinator.com/item?id=49289512)
-
-**「背景」** 《Choose Boring Technology》是 Dan McKinley 于 2015 年发表的经典技术策略文章。文章提出“创新代币”（innovation tokens）的概念：每家公司在一定时期内能承受的创新数量有限，因此应把有限的新技术尝试额度留给真正需要创新的地方，其余基础设施则选用成熟、可预测的“无聊”技术。该文背景是 2010 年代前端框架频繁更替的时代，许多团队因追逐新工具而消耗了过多精力，作者借此主张以稳定技术降低长期维护成本。
-
-**「影响」** 对工程负责人和产品经理而言，&\#x27;创新代币&\#x27;提供了一种共同语言，能把技术选型的权衡清晰传达给各级同事；但这一框架也受到批评，被指用新颖性代替了更本质的需求、风险与收益分析。
-
-**「社区讨论」** 评论中既有高度认可（称其为 PM/工程负责人职业生涯中最有用的概念之一），也有反对意见（认为&\#x27;创新代币&\#x27;过于任意，工程师应直接分析需求、风险、收益，而非以新旧作为代理）。还有评论将其延伸到 AI 代理时代，建议把创新代币全部投入代理相关技术，而让代理所使用的底层技术保持无聊；另有人指出文章背景是 JavaScript 框架频繁更迭的年代，并以 IBM 在集成电路上的迟缓作为反例。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://mcfunley.com/choose-boring-technology">Dan McKinley :: Choose Boring Technology</a></li>
-<li><a href="https://zeli.app/en/story/49289512">Choose Boring Technology — Choose Boring Technology ( 2015 )</a></li>
-<li><a href="https://news.ycombinator.com/item?id=49289512">Choose Boring Technology ( 2015 ) | Hacker News</a></li>
-
-</ul>
-</details>
-
-**标签**: `#software-engineering`, `#technology-strategy`, `#engineering-culture`, `#tradeoffs`
-
----
-
-<a id="item-tech-news-13"></a>
-### [NP 困难性真的被高估了吗？](https://gruhn.me/blog/2026-08-13/) ⭐️ 7.0/10
-
-这篇博客文章（NP-overrated）提出，NP 困难性在实际工程中的重要性被高估了：虽然 NP 完全问题在最坏情况下呈指数爆炸，但许多实际案例不会触及这些极端配置，启发式算法通常足以在高效时间内得到近似解。文章以此挑战将 NP 困难性视为软件工程实践障碍的常见看法。围绕这一论点，Hacker News 评论展开了讨论，既有观点强调复杂性类研究的理论价值，也指出依赖管理和类型系统等做法本质上是在规避 NP 难空间，而非正面求解。
-
-hackernews · theanonymousone · 8月13日 20:14 · [社区讨论](https://news.ycombinator.com/item?id=49291268)
-
-**「背景」** NP-hard（NP 困难）是计算复杂性理论中的一个分类，指在最坏情况下精确求解问题可能需要指数级时间；不过许多实际中遇到的 NP-hard 问题仍可通过启发式算法、分支定界或约束剪枝在合理时间内处理，真正触发指数爆炸的实例往往很少出现。这篇博客文章以此为背景提出 NP-hardness 被高估的观点，而 Hacker News 评论区的讨论则进一步涉及复杂性理论的目的、启发式方法的必要性，以及通过限制问题域来规避困难实例等话题。
-
-**「社区讨论」** 评论者大体认可“最坏情况在实际中很少出现”的观察，但认为文章没有充分正视理论价值与行业常态做法：例如 pron 强调复杂性类研究旨在理解计算的极限，Guvante 指出依赖管理器和类型系统通常直接阻断难例。另有评论提到即使近似求解，某些搜索问题仍可能非常困难，并援引旧版 Debian 升级中的实际体会。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://news.ycombinator.com/item?id=49291268">NP - Overrated | Hacker News</a></li>
-
-</ul>
-</details>
-
-**标签**: `#algorithms`, `#complexity theory`, `#NP-hard`, `#software engineering`, `#heuristics`
-
----
-
-<a id="item-tech-news-14"></a>
-### [旧网页去哪儿了：65.7 万条链接的链接失效调查](https://0.mk/blog/link-rot) ⭐️ 7.0/10
-
-一项发表在 0.mk 博客上的分析追踪了 657,607 条链接，试图回答“旧的网页去了哪里”。结果显示，链接失效呈现出明显模式，大量旧网页内容已经无法访问，为网络衰变和网页消失提供了具体的量化证据。这项数据驱动研究有助于网页开发者、档案工作者和互联网历史研究者了解内容丢失的规模与规律。
-
-hackernews · tdx · 8月13日 17:49 · [社区讨论](https://news.ycombinator.com/item?id=49289532)
-
-**「背景」** 链接腐烂（link rot）是指由于域名过期、服务器关闭或内容被移除，导致超链接逐渐失效的现象，通常表现为 404 错误或重定向失效。互联网档案馆（如 Wayback Machine）通过定期爬取和存档网页来缓解这一问题，但档案覆盖并不完整，且旧网页的互动功能与动态内容往往无法完整复原。理解链接腐烂有助于评估“旧网络”消失的速度与范围，以及网页存档在数字历史研究中的价值与局限。
-
-**「影响」** 这项基于 65.7 万条链接的分析为网页开发者、档案工作者和互联网历史研究者提供了一份关于链接失效和旧网页消失规模的实证参考，可作为讨论网络保存策略时的数据基础。
-
-**「社区讨论」** 评论者对“旧网页”的时间界定产生分歧：有人认为它结束于 Facebook 兴起和博客圈衰落，有人以谷歌搜索公开前（约 1997 年）或 2009-2014 年为界。也有评论提醒，网站历来像橱窗一样随季节更换，永久存档的想法只适用于在线新闻等少数内容。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://web.archive.org/web/20250214072411/https://en.wikipedia.org/wiki/Wikipedia:Link_rot">Wikipedia: Link rot - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#link-rot`, `#web-preservation`, `#internet-history`, `#data-analysis`, `#web-archiving`
-
----
-
-<a id="item-tech-news-15"></a>
-### [City2Graph：将地理空间数据转为异构图的 Python 库](https://www.reddit.com/r/MachineLearning/comments/1vn8oya/city2graph_a_python_library_for_heterogeneous/) ⭐️ 7.0/10
-
-City2Graph 是一个新发布的开源 Python 库，可将地理空间数据转换为适用于空间分析、网络分析和图神经网络（GeoAI）的异构图。描述该库的论文已发表在《Computers, Environment and Urban Systems》2026 年第 130 卷，文章编号 102492，作者为 Sato、Pietrostefani、Mahabir 和 Arribas-Bel。该库支持从 OpenStreetMap 和 Overture Maps 构建城市形态图，通过 DuckDB 加载 GTFS 和 GBFS 数据以生成交通图，将 OD 矩阵和流数据表示为加权空间图，并提供 KNN、Delaunay、Gilbert、Waxman 以及女王/车相邻性等邻近和邻接图。它还能在 GeoDataFrame、NetworkX、rustworkx 和 PyTorch Geometric 的 Data/HeteroData 之间往返转换，同时保持几何与图结构一致。该库填补了 GeoAI 工具链中从原始地理数据到异构图建模之间的空白，为城市系统研究提供了可直接使用的开源方案。
-
-reddit · r/MachineLearning · /u/Tough\_Ad\_6598 · 8月13日 11:59
-
-**「背景」** 传统上，城市数据常被表示为扁平的特征表或同构图，难以表达建筑物、街道、交通站点和人口流动之间的多种关系类型。异构图允许在一个图中同时存在多种节点类型和边类型，并通过元路径组合跨类型关系，因此更适合建模城市系统的复杂性。City2Graph 提供了从多种地理数据源构建此类异构图的统一接口，并能直接输出到图神经网络框架，降低了该领域的研究门槛。
-
-**「影响」** 对于从事城市计算、空间分析和 GeoAI 的研究人员，City2Graph 提供了一个经过论文描述和代码公开的现成工具，可将 OSM、Overture、GTFS 和 GBFS 等数据直接转换为 PyTorch Geometric 兼容图，从而减少重复编码工作并提高实验的可复现性。该库目前仍处于开发初期，功能覆盖范围和性能尚需社区验证与扩展。
-
-**标签**: `#graph-neural-networks`, `#geospatial`, `#python`, `#urban-systems`, `#geoai`
-
----
-
-<a id="item-tech-news-16"></a>
-### [AI 人体组织实验室年测 300 万样本](https://www.fastcompany.com/91589344/the-worlds-largest-biological-datacenter-could-help-make-animal-testing-obsolete) ⭐️ 7.0/10
-
-据 Fast Company 报道，Vivodyne 在旧金山南部运营衣柜大小的机器人实验室，利用 AI 设计实验，每年可对 300 多万个人体组织进行受控试验，容量约为美国全部临床试验总和的两倍，旨在更好地预测新药疗效与安全性，并有望减少或替代动物测试。报道指出，目前约 90%的临床试验在通过动物测试后仍告失败。这些数据主要来自公司自身宣传，尚不能视为已验证的突破。
+Vivodyne 公司在美国旧金山南部运营着 12 个“蜂巢”机器人实验室，用 AI 设计实验并规模化培养人体组织，每年可对 300 多万个人体组织开展受控试验，容量约为全美临床试验总和的两倍。其目标是更好预测新药疗效与安全性，从而替代或减少动物测试；目前约 90% 的临床试验在通过动物测试后仍告失败。该系统代表着 AI 驱动的人体组织实验在药物研发中的大规模落地。
 
 telegram · zaihuapd · 8月14日 01:48
 
-**「背景」** 传统药物研发通常先进行动物测试，但约 90%通过动物测试的候选药物在后续人体临床试验中仍以失败告终，因为动物生理与人体存在明显差异。Vivodyne 是一家利用机器人实验室培养人体组织并结合 AI 设计实验的生物科技公司，其公开资料称这些实验室培养的组织与活体人体组织难以区分，并可通过自动化流程生成影像、单细胞转录组和蛋白质组等多组学数据。该公司在 2025 年 6 月宣布获得 4000 万美元融资，据称每次机器人运行可独立完成超过 1 万项人体组织实验，以支撑更大规模的药物测试。
+**「背景」** Vivodyne 是一家生物技术初创公司，其核心平台是由机器人驱动的“HIVE”实验室，可一次性对约 1 万个人体组织样本进行受控测试。该公司于 2025 年 5 月宣布完成 4000 万美元 A 轮融资，旨在以“纯人类组织优化”流程替代动物测试，以降低临床试验高达约 95% 的失败率。这一背景解释了为何规模化培养人体组织并借助 AI 设计实验，被视为有望淘汰动物测试的关键技术路径。
 
-**「影响」** 如果该系统经独立验证有效，制药和生物技术公司可能以更高通量和更低成本筛选候选药物，降低对动物实验的依赖；但当前缺乏第三方验证，实际替代进程仍存在不确定性。
+**「影响」** 对药物研发机构而言，这可能显著提高临床前筛选的预测能力，并推动减少对动物模型的依赖；不过该技术仍需更多验证才能确定其能否真正改善临床试验成功率。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://www.vivodyne.com/">Vivodyne | Make biology computable</a></li>
-<li><a href="https://hlth.com/insights/news/vivodyne-raises-40m-to-transform-drug-development-with-ai-powered-human-tissue-testing-2025-06-03">Vivodyne Raises $40M to Transform Drug Development with...</a></li>
-<li><a href="https://www.bastillepost.com/global/article/6076655-vivodyne-launches-the-worlds-largest-human-biological-datacenter-to-train-the-first-world-model-of-human-biology">Vivodyne Launches the World’s Largest Human Biological Datacenter...</a></li>
+<li><a href="https://www.businesswire.com/news/home/20250528498236/en/Vivodyne-to-Replace-Animal-Testing-With-$40-Million-Funding-to-Reverse-95-Clinical-Trial-Failure-Rate">Vivodyne to Replace Animal Testing With $40 Million Funding to Reverse 95% Clinical Trial Failure Rate</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#biotech`, `#robotics`, `#drug discovery`, `#lab automation`
+**标签**: `#AI`, `#Biotech`, `#Drug Discovery`, `#Robotics`, `#Human Tissue`
+
+---
+
+<a id="item-tech-news-6"></a>
+### [小红书开源 dots3-note：280B MoE 仅 16B 激活](https://x.com/dotsstudioai/status/2088083314855018521) ⭐️ 8.0/10
+
+小红书 dots 实验室开源了 dots3-note preview，这是 dots3 系列首个开放权重模型。模型总参数 280B，每次推理仅激活 16B 参数，支持 512K 上下文，可同时处理文字、图片、视频和音频。该模型引入了新的强化学习方法 TEMPO，通过自批判和测试时价值估计训练长程智能体，并已在 Hugging Face 开放权重。官方还同步发布了 VibeSearchBench 和 VibeLifeBench 两个真实场景智能体基准。
+
+telegram · zaihuapd · 8月14日 08:27
+
+**「背景」** dots3-note preview 是小红书 dots 实验室在 dots3 系列中首个开放权重模型，采用混合专家（MoE）架构，总参数 280B，每次激活 16B 参数，支持 512K token 上下文，并能处理文字、图片、视频和音频等多模态输入。此前小红书已经开源过 dots.llm1（142B MoE、14B 激活），而 dots 也是其新设立的 AI 一级部门。MoE 模型只激活部分参数，从而在保持大模型容量的同时降低推理成本，这是这类超大模型能以较小激活规模部署的关键。
+
+**「影响」** 该开源权重让 AI 开发者和研究者能够以 16B 激活参数部署 280B 级多模态模型，大幅降低推理成本和显存占用，同时保留 512K 上下文与文本、图像、视频、音频处理能力。新发布的 TEMPO 强化学习方法和 VibeSearchBench、VibeLifeBench 基准为长程智能体的训练与评测提供了可用工具，但完整性能和局限仍需实测确认。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/studio-dots-ai/dots3-note-prev">GitHub - studio-dots-ai/ dots 3 - note -prev: dots 3 note preview · GitHub</a></li>
+<li><a href="https://chats-llm.com/en/blog/dots-llm1-release">Xiaohongshu dots .llm1: 142 B MoE Open Source Release</a></li>
+
+</ul>
+</details>
+
+**标签**: `#open-source`, `#MoE`, `#multimodal`, `#reinforcement-learning`, `#AI`
+
+---
+
+<a id="item-tech-news-7"></a>
+### [PostgreSQL 修复 to\_char 高危漏洞，可致任意代码执行](https://www.postgresql.org/support/security/CVE-2026-14669/) ⭐️ 8.0/10
+
+PostgreSQL 项目披露了高危漏洞 CVE-2026-14669，该漏洞存在于 to\_char\(timestamptz\) 函数处理超长 POSIX 时区缩写的过程中，可引发堆缓冲区溢出。能够设置时区的数据库用户可利用该漏洞以 PostgreSQL 服务进程的操作系统权限执行任意代码，CVSS 评分为 8.8，但攻击者需要拥有低权限数据库账户，并非无需认证即可利用。受影响版本包括 PostgreSQL 18.5、17.11、16.15、15.19 和 14.24 之前的版本。由于 18.5 因回归问题未正式发布，18 系列用户应直接升级至 18.6；其他版本用户应分别升级至 17.11、16.15、15.19 或 14.24。此次小版本更新不需要转储数据库或运行 pg\_upgrade，更新程序文件并重启服务即可。
+
+telegram · zaihuapd · 8月14日 14:35
+
+**「背景信息」** PostgreSQL 是广泛使用的开源关系型数据库，to\_char\(timestamptz\) 是用于格式化带时区时间戳的函数。CVE-2026-14669 是一个位于该函数处理超长 POSIX 时区缩写时的堆缓冲区溢出漏洞；POSIX 时区缩写允许用户以自定义字符串表示时区，而 PostgreSQL 在解析这些超长缩写时未能正确限制长度。攻击者可利用该缺陷在数据库服务进程的操作系统用户权限下执行任意代码，但前提是攻击者拥有可设置时区的低权限数据库账户。该问题影响 PostgreSQL 18.5、17.11、16.15、15.19 和 14.24 之前的版本，官方通过 18.6、17.11、16.15、15.19 和 14.24 小版本更新修复。
+
+**「影响」** 所有使用受影响 PostgreSQL 分支并允许低权限数据库用户设置时区的部署都应尽快升级到修复版本，以阻止攻击者利用该漏洞在数据库服务进程权限下执行任意代码。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.postgresql.org/support/security/CVE-2026-14669/">CVE - 2026 - 14669 : PostgreSQL to _ char heap buffer overflow ...</a></li>
+<li><a href="https://vuldb.com/vuln/389416">CVE - 2026 - 14669 PostgreSQL to _ char heap -based overflow</a></li>
+<li><a href="https://security.snyk.io/vuln/SNYK-DEBIAN13-POSTGRESQL17-18760900">CVE - 2026 - 14669 in postgresql -17 | CVE - 2026 - 14669 | Snyk</a></li>
+
+</ul>
+</details>
+
+**标签**: `#postgresql`, `#security`, `#CVE`, `#database`, `#vulnerability`
+
+---
+
+<a id="item-tech-news-8"></a>
+### [Opus 5 的交流风格为何让开发者感到更吃力？](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) ⭐️ 7.0/10
+
+一篇开发者博客文章分析了 Claude Opus 5 为何让人感觉更难协作，指出其语言风格趋于“省略式”和面向代理（agent-oriented）的沟通，而非面向人类。文章在 Hacker News 上引发激烈讨论，多位用户认同这一观察，认为 Anthropic 的后期训练可能已从服务人类转向服务其他 AI 代理。具体抱怨包括：句子围绕要点绕圈、抽象措辞过多、常用无生命名词做主语以制造“落地”式的结尾；有用户表示 Opus 5 的“诚实”“认错”式表述令人疲惫，甚至因此转向 OpenAI 的 Sol 账号；还有用户称已经退回 Claude 4.8，因为 Opus 5 在没有严格指令时容易偏离方向。
+
+hackernews · numeri · 8月14日 10:12 · [社区讨论](https://news.ycombinator.com/item?id=49296740)
+
+**「背景」** Anthropic 于 2026 年 7 月 24 日发布 Claude Opus 5，延续 Opus 系列高端模型定位，API 定价为每百万输入 token 5 美元、每百万输出 token 25 美元，并在 Claude.ai、API、Claude Code、Claude Cowork、Amazon Bedrock、Google Cloud 和 Microsoft Foundry 等平台提供。作为偏重实用 AI 代理能力的旗舰级模型，Opus 5 在多项独立评测中表现领先，但不少用户反馈其沟通风格高度概括、以代理间交接为目标，而非优先面向人类读者的可读性。
+
+**「影响」** 对于依赖 Claude 进行日常编码和写作的开发者与 AI 实践者，Opus 5 的沟通风格可能降低协作效率，促使部分用户迁移到竞品模型或回退到旧版本。
+
+**「社区讨论」** 评论普遍认同博主的批评，认为 Opus 5 的“代理腔”过于明显，人类不再是模型表达的主要受众；也有用户援引具体例子（如“anti-vacuity floor”等抽象句子）来佐证这一点，并有人表示 OpenAI Sol 在使用体验上更友好。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.remio.ai/post/anthropic-google-rivalry-tightens-as-claude-opus-5-raises-the-agent-bar">Anthropic Google Rivalry Tightens as Claude Opus 5 Raises the...</a></li>
+<li><a href="https://ccleaks.com/news/claude-opus-5-launch-july-2026">Claude Opus 5 Anthropic launch on July 24 at $5/$25 | ccleaks News</a></li>
+
+</ul>
+</details>
+
+**标签**: `#llm`, `#claude`, `#ai-usability`, `#agent-communication`, `#anthropic`
+
+---
+
+<a id="item-tech-news-9"></a>
+### [Mixedbread 发布搜索专用 LLM Toast 1](https://www.mixedbread.com/blog/toast-1) ⭐️ 7.0/10
+
+Mixedbread 发布了 Toast 1，一款面向搜索场景的专用 LLM，旨在处理复杂搜索任务。该消息在 Hacker News 上引发讨论，评论者普遍认可“搜索专用模型”这一方向，但也有人遗憾它并非开放权重模型。讨论还将其与 Perplexity、Gemini with search、Parallel AI 以及基于 SearXNG 的 MCP 方案进行对比，并指出文章应进一步解释“Mixedbread Search”到底是什么。目前官方尚未公布模型参数规模、性能基准或发布时间等具体技术细节。
+
+hackernews · mplappert · 8月14日 15:07 · [社区讨论](https://news.ycombinator.com/item?id=49299746)
+
+**「背景」** Toast 1 是 Mixedbread 推出的专用搜索模型，定位为面向知识密集型任务的搜索代理。官方称其搜索质量达到前沿水平，能够匹配或超越 Claude Opus 5 与 GPT-5.6 Sol，同时成本最高可降低 10 倍、速度提升 12 倍。该模型在与 Mixedbread Search 搭配时表现最佳，但也能兼容其他搜索后端。
+
+**「影响」** 对搜索和 AI 从业者而言，Toast 1 的发布进一步表明搜索正成为专用模型的新战场；但由于模型未开放权重，希望基于开源方案搭建搜索代理的开发者无法直接采用它，可能仍会继续使用 SearXNG 等替代方案。
+
+**「社区讨论」** 评论整体对该方向持正面态度，认为 LLM 能代替多轮 Google 搜索是“板上钉钉”的应用；主要分歧在于开放权重与否，以及它和 Perplexity、Gemini with search、Parallel AI、SearXNG 包装器的实际差异。也有评论指出文章应解释“Mixedbread Search”，并好奇它与专用 RAG 管线的区别。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.mixedbread.com/blog/toast-1">Introducing Toast 1</a></li>
+
+</ul>
+</details>
+
+**标签**: `#LLM`, `#AI search`, `#specialized models`, `#mixedbread`, `#natural language processing`
+
+---
+
+<a id="item-tech-news-10"></a>
+### [不要分类，要幻觉：用向量嵌入匹配标签](https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/) ⭐️ 7.0/10
+
+Simon Willison 在 2026 年 8 月 14 日介绍 Doug Turnbull 提出的一种 LLM 标签方法：先让模型根据少量示例“幻觉”出全新的候选标签，再用向量嵌入从已有标签语料中找到最接近的真实标签，从而避免把全部标签一次性塞进提示词。Simon 的博客有 1,856 个标签，数量过多而难以直接喂给 LLM 做分类；Turnbull 的示例提示词会给出标签的形状（如“Furniture / Living Room Furniture / Coffee Tables &amp; End Tables / Coffee Tables”），并让模型基于查询生成新分类。该方法把“分类”转变为“生成+检索”，适用于标签词表很大或无法完整放入单一提示词的场景，是一种实用且可复用的工程技巧。
+
+rss · Simon Willison · 8月14日 21:54
+
+**「背景」** 传统的做法是把已有的标签列表直接提供给大语言模型，让它从中选择匹配项，但当标签数量很大（例如 Simon Willison 博客的 1856 个标签）时，可能超出单次提示的长度限制。Doug Turnbull 提出一种替代模式：先让模型自由发挥、生成看似合理但可能不存在的虚构标签，然后把生成的标签转为向量，与现有标签库的向量嵌入进行比较，找到最接近的真实标签。
+
+**「影响」** 对于标签数量庞大而无法一次性放入提示词的开发者，这种方法提供了一种低成本、可复用的自动打标策略：先幻觉、后检索，无需维护额外训练数据。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications">Don’t classify. Hallucinate!</a></li>
+<li><a href="https://softwaredoug.com/blog/2026/01/08/semantic-search-without-embeddings">Semantic Search Without Embeddings - Doug Turnbull</a></li>
+
+</ul>
+</details>
+
+**标签**: `#LLM`, `#tagging`, `#embeddings`, `#AI`, `#software-engineering`
+
+---
+
+<a id="item-tech-news-11"></a>
+### [torch-preflight：捕获 PyTorch 训练错误的静态检查工具](https://www.reddit.com/r/MachineLearning/comments/1vo8vv0/a_linter_for_pytorch_torchpreflight_p/) ⭐️ 7.0/10
+
+torch-preflight 是一个面向 PyTorch 的静态分析 linter，无需导入或执行代码即可检测常见的训练错误，例如 loss.append\(loss\) 持有 autograd 计算图、循环中缺少 zero\_grad\(\)、梯度累积未除以损失以及 DDP 未使用 DistributedSampler 导致每个等级训练相同批次。该项目目前包含 13 条规则，并支持在无需 GPU 或安装 torch 的情况下估算 GPU 显存需求，帮助用户提前判断训练脚本是否适合特定 GPU 以及哪些修改可节省多少 GiB。开发者表示，内存估算在四款模型和一块 T4 上的结果与实测峰值相差在 4% 以内。工具已通过 pip 安装（pip install torch-preflight），代码托管在 GitHub，项目仍处于早期阶段并欢迎贡献和反馈。
+
+reddit · r/MachineLearning · /u/LeJanbandhu · 8月14日 14:30
+
+**「背景」** PyTorch 训练代码中的一些常见错误会浪费 GPU 计算资源，例如在循环中不断用列表保存损失值会保留每步的 autograd 计算图，直到显存耗尽；而分布式训练时若未搭配 DistributedSampler，各进程会使用相同批次的数据。torch-preflight 通过在静态层面分析源码来发现这类问题，不实际运行代码，因此无需 GPU 环境和完整的 PyTorch 安装。
+
+**「影响」** 对 PyTorch 开发者和机器学习工程师而言，该工具可以帮助在付费运行训练任务前发现导致显存超限或训练效率低下的代码问题，从而节省 GPU 时间和费用支出。
+
+**标签**: `#PyTorch`, `#linter`, `#machine-learning`, `#developer-tools`, `#GPU`
+
+---
+
+<a id="item-tech-news-12"></a>
+### [谷歌被令取消第三方应用商店安装障碍](https://www.androidauthority.com/google-play-store-remove-third-party-app-store-friction-3698697/) ⭐️ 7.0/10
+
+美国地区法官 James Donato 下令谷歌在一周内简化竞品安卓应用商店的安装流程，删除 Play Store 中的多余步骤与警告弹窗。法院认定这些“查看”后才出现“安装”等多步操作是蓄意制造的“反竞争摩擦”，用于吓退普通用户，并责令让安装第三方市场像安装普通安卓应用一样直接。该指令源自 Epic 诉谷歌反垄断案，此前陪审团裁定谷歌在安卓应用分发上构成非法垄断。受影响的用户和第三方应用商店开发者将看到安装门槛明显降低，但谷歌可能上诉或寻求暂缓执行。
+
+telegram · zaihuapd · 8月14日 09:55
+
+**「背景」** Epic Games 诉 Google 案是 Epic 针对 Google 在安卓应用分发和支付方面的限制提起的反垄断诉讼。此前陪审团已裁定 Google 在安卓应用分发市场构成非法垄断，本次法官 James Donato 的命令正是基于该案作出的禁令，要求 Google 简化第三方应用商店的安装流程，删除 Play Store 中的多余警告步骤。
+
+**「影响」** 对于 Android 用户和 Epic Games Store 等第三方应用商店，最直接的影响是谷歌须在一周内移除 Play Store 中针对第三方商店安装的额外警告与多步确认，使安装流程像安装普通安卓应用一样直接，从而降低非技术用户安装竞品商店的阻力。据外部报道，法院同时允许谷歌对第三方商店每年收取 5000 美元的安全与合规审查费，以覆盖审查成本。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Epic_Games_v._Google">Epic Games v . Google - Wikipedia</a></li>
+<li><a href="https://www.eff.org/cases/epic-games-v-google">Epic Games v . Google | Electronic Frontier Foundation</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/">Third-party app stores coming to Google Play next week as Epic settlement withdrawn - Ars Technica</a></li>
+
+</ul>
+</details>
+
+**标签**: `#antitrust`, `#google`, `#android`, `#app-store`, `#tech-industry`
+
+---
+
+<a id="item-tech-news-13"></a>
+### [苹果自研中国 AI 大模型，与阿里合作有望率先获批](https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/) ⭐️ 7.0/10
+
+据路透援引知情人士报道，苹果已专门为中国市场训练一款大语言模型，并得到阿里巴巴支持，放弃了此前依赖第三方模型的策略。苹果的自研模型将用于未来数月随 iOS 更新在中国上线的 Apple Intelligence，使其更好地掌控中国市场的 AI 体验。中国网信办在上月已对苹果的生成式 AI 服务完成备案，若正式落地，苹果可能成为首个获北京批准在华提供自有 AI 模型的外国公司。需要说明的是，该报道基于匿名消息源，未披露技术细节与具体备案范围。
+
+telegram · zaihuapd · 8月14日 14:47
+
+**「背景」** 中国对生成式 AI 服务实行备案与合规监管，境外或第三方模型进入中国市场需符合当地要求。此前苹果在中国市场需要借助外部大模型提供 AI 功能，此次转向自研模型并借助阿里巴巴支持，意在满足监管要求的同时掌握产品体验。
+
+**「影响」** 若获批，苹果将成为首个获准在华提供自有 AI 模型的外国公司，可能带动其他海外科技企业重新评估在中国直接部署生成式 AI 的策略；对中国用户而言，Apple Intelligence 有望随 iOS 更新落地，但具体功能范围和可用性仍需等待官方确认。
+
+**标签**: `#Apple`, `#Artificial Intelligence`, `#China`, `#Alibaba`, `#Generative AI`
+
+---
+
+## 科技博客
+
+<a id="item-tech-blog-1"></a>
+### [DSpark 自适应验证：按置信度保持 Pareto 最优](https://vllm.ai/blog/2026-08-14-dspark-adaptive-verification) ⭐️ 8.0/10
+
+rss · vLLM Blog · 8月14日 00:00
+
+**「背景」** 投机解码用更多计算换取更少解码步：低并发时 GPU 内存受限，草稿 token 几乎免费；但高并发时被拒绝的草稿会浪费本可用于真实 token 的计算，导致固定投机长度无法在所有并发下保持最优。
+
+**「方案」** DSpark 用置信度头给每个草稿位置打分，调度器把分数转成存活概率并做全局 top-B 分配；B 通过最大化“每步期望 token 除以实测成本表”得到，成本表启动时用中位数采样并强制单调。CPU 在前一步 GPU 仍在运行时基于双缓冲置信度计算预算，GPU 侧则用 torch.compile 完成分配。为了支持变长验证，作者引入 varlen decode CUDA graphs，利用稀疏 MLA 内核和 DeepGEMM 的 varlen indexer。实测 DeepSeek-V4-Pro-0813、TP=8、并发 1–256 时，自适应验证始终处于 Pareto 前沿：低并发表现像长块，高并发表现像短块。限制包括需要 SM100 上的 AttentionCGSupport.ALWAYS，暂不支持 eager、LoRA、流水线并行和输出 logprobs。
+
+**「启示」** 作者认为这使 DSpark 更容易成为默认开启的优化，用户不必再按负载调节 num\_speculative\_tokens，同时能在广泛并发范围内保持吞吐与交互性的最优权衡。
+
+**标签**: `#speculative decoding`, `#vLLM`, `#cost modeling`, `#CUDA graphs`, `#inference optimization`
 
 ---
 
 ## 财经新闻
 
 <a id="item-finance-news-1"></a>
-### [阿克曼旗下 Pershing Square 重新建仓 Netflix](https://www.cnbc.com/2026/08/13/ackman-buys-netflix-again-four-years-later-says-it-won-streaming-wars.html) ⭐️ 8.0/10
+### [伯克希尔二季度大幅增持 Alphabet，跃升为第三大持仓](https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html) ⭐️ 8.0/10
 
-比尔·阿克曼旗下 Pershing Square 在半年报中披露重新建仓 Netflix，认为该公司已“有效赢得流媒体战争”。Pershing Square 称，Netflix 拥有逾 3.25 亿订阅用户，股价已从 2025 年 6 月高点 134 美元回落约 50%，远期市盈率从 40 多倍降至约 21 倍。
+伯克希尔哈撒韦在 2026 年第二季度大幅增持 Alphabet，使后者按市值成为其第三大美股持仓，并结束连续 14 个季度的净卖出，当季净买入近 200 亿美元股票。监管文件显示，该公司 6 月底持有约 1.06 亿股 Alphabet，价值约 379 亿美元，环比增加 83%。
 
-rss · CNBC Finance · 8月13日 18:04
+rss · CNBC Finance · 8月14日 21:06
 
-**「背景」** 阿克曼曾在 2022 年初买入 Netflix，但在该公司报告十多年来首次订阅用户下滑后约三个月内清仓。
+**「背景」** 此次增持主要来自 Alphabet 在 6 月为庞大的人工智能基础设施投入而进行的 100 亿美元私募配售；伯克希尔当季还增持了达美航空和住宅建筑商，并完成对 Taylor Morrison 的收购。
 
-**标签**: `#Netflix`, `#Bill Ackman`, `#Pershing Square`, `#Streaming`, `#Valuation`
+**标签**: `#Berkshire Hathaway`, `#Alphabet`, `#Delta Air Lines`, `#homebuilders`, `#investment strategy`
 
 ---
 
 <a id="item-finance-news-2"></a>
-### [长鑫存储市值超越腾讯，成为中国市值最高公司](https://www.bloomberg.com/news/articles/2026-08-13/cxmt-overtakes-tencent-to-become-most-valuable-chinese-company) ⭐️ 8.0/10
+### [高盛借 AI 基建融资热潮获利](https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html) ⭐️ 8.0/10
 
-长鑫存储（CXMT）市值已超越腾讯，成为中国市值最高的公司：周四跌 1.2%后市值仍有 5240 亿美元，腾讯估值则为 5100 亿美元。CXMT 上月在上海上市，首日暴涨 467%；腾讯因加大 AI 投入，今年以来股价累计下跌超 26%。
+高盛正从 AI 基础设施融资热潮中获利：它担任英伟达 5000 亿美元融资计划、英特尔 200 亿美元股票发行和 Alphabet 850 亿美元股票发行的主要承销商，从中赚取承销费。这些计划均为公司公告，部分细节尚未敲定。
 
-telegram · zaihuapd · 8月13日 10:10
+rss · CNBC Finance · 8月14日 20:05
 
-**「背景」** 长鑫存储（CXMT）是总部位于安徽合肥的半导体存储器（DRAM）制造商，上月在上海上市后股价大涨。腾讯则因加大 AI 投入而股价承压，导致市值排名发生变化。
+**「背景」** 在股票发行中，承销商低价从公司买入股票，再转售给机构客户，差价即承销收入。英伟达的新计划还试图把数据中心等算力设施变成类似债券的可交易资产，为 AI 客户提供融资；高盛等机构已签署不具约束力的意向书。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
+**「影响」** 这些交易直接提升高盛的投行业务收入，但也让该行的业绩与半导体资本开支周期绑定；分析师提醒，将实体资产证券化可能带来新的风险。
 
-</ul>
-</details>
-
-**标签**: `#CXMT`, `#Tencent`, `#China market cap`, `#semiconductor`, `#IPO`
+**标签**: `#investment banking`, `#AI infrastructure`, `#equity offering`, `#Goldman Sachs`, `#capital markets`
 
 ---
 
 <a id="item-finance-news-3"></a>
-### [Uber 与 Pony.ai 计划在欧洲部署 2000 辆无人驾驶出租车](https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html) ⭐️ 7.0/10
+### [Uber 携手 Pony.ai 在欧洲部署 2000 辆自动驾驶出租车](https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html) ⭐️ 7.0/10
 
-优步（Uber）与中国自动驾驶公司小马智行（Pony.ai）于周五宣布，计划在欧洲部署 2000 辆无人驾驶出租车（robotaxi），并将双方合作扩展至中东。公司未公布具体城市或明确时间表。
+Uber 与 Pony.ai 于周五宣布，计划在欧洲部署 2000 辆自动驾驶出租车，并将合作扩展至中东；双方尚未公布具体城市和启动时间。
 
 rss · CNBC Finance · 8月14日 01:02
 
-**「背景」** 今年 3 月底，双方已在克罗地亚首都萨格勒布推出商业无人驾驶出租车服务，据称是欧洲首例。
+**「背景」** 两家公司今年 3 月已在克罗地亚萨格勒布推出商用自动驾驶出租车，并称其为欧洲首个此类服务，Uber 的目标是成为全球领先的自动驾驶商业化平台。
 
-**标签**: `#Uber`, `#Pony.ai`, `#Robotaxi`, `#Autonomous Vehicles`, `#Europe`
+**「影响」** 这项计划将使 Uber 和 Pony.ai 在欧洲与 Waymo 等对手直接竞争；Waymo 目前大约有 5000 辆车，主要在美国运营。Pony.ai 定于周二发布季度财报。
+
+**标签**: `#Uber`, `#Pony.ai`, `#robotaxis`, `#autonomous vehicles`, `#Europe`
 
 ---
 
 <a id="item-finance-news-4"></a>
-### [标普 500 企业 Q2 净利润率有望创 FactSet 有记录以来新高](https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html) ⭐️ 7.0/10
+### [苹果提交美国 App Store 外部购买抽成方案：最高 15%](https://9to5mac.com/2026/08/13/apple-proposes-commissions-of-up-to-15-for-off-app-store-purchases-in-the-us/) ⭐️ 7.0/10
 
-据 FactSet 数据，标普 500 指数成分股公司第二季度混合净利润率为 16.9%，高于一季度的 14.8%和去年同期的 12.9%，也高于五年均值 12.4%；若该数据成立，将是 FactSet 自 2009 年开始追踪该指标以来的最高水平。
-
-rss · CNBC Finance · 8月13日 20:21
-
-**「背景」** 净利润率是指企业扣除所有费用后保留的营收占比。FactSet 数据显示，除 Alphabet 和亚马逊外，标普 500 的净利润率仍达 15%，同为纪录高位；11 个行业中有 8 个的利润率高于去年同期。
-
-**标签**: `#S&amp;P 500`, `#profit margins`, `#corporate earnings`, `#FactSet data`, `#stock market`
-
----
-
-<a id="item-finance-news-5"></a>
-### [美国宣布无人机关税：部分进口机型税率达 100%](https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/) ⭐️ 7.0/10
-
-美国总统 8 月 13 日签署公告，对进口无人机及部件加征新关税。自 2026 年 9 月 3 日起，最大起飞重量超过 25 公斤的无人机、搭载热成像仪的无人机、无人机基站及部分关键部件税率达 100%，25 公斤及以下无人机税率为 25%；公告还称，另一部分无人机部件的 25%关税将于 2027 年 2 月 9 日起生效，并授权商务部长将更多部件纳入征税范围。
-
-telegram · zaihuapd · 8月14日 01:24
-
-**「背景」** 白宫称此举旨在扩大美国国内无人机制造并减少对关键零部件海外来源的依赖，相关措施也被视为针对中国等外国供应商。
-
-**「影响」** 新关税将直接影响依赖进口无人机的美国经销商、商业用户和消费者，可能导致相关机型与部件价格上升；美国市场对中国产无人机的依赖程度较高，供应链成本或进一步承压。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.aa.com.tr/en/world/trump-imposes-tariffs-of-up-to-100-on-imported-drones-components/4027001">Trump imposes tariffs of up to 100 % on imported drones , components</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-08-13/trump-imposes-100-tariffs-on-certain-drones-countering-china">Trump Imposes 100 % Tariffs on Some Drones ... - Bloomberg</a></li>
-<li><a href="https://www.datamintelligence.com/news/trump-drone-tariffs-2026-impact-on-global-drone-market-us-china-uav-supply-chain">Trump Drone Tariffs 2026: 100% Duty on Chinese UAV Imports ...</a></li>
-<li><a href="https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-drones-and-their-parts-and-components/">Fact Sheet: President Donald J. Trump Bolsters National Security and...</a></li>
-<li><a href="https://www.dslrpros.com/blogs/drone-trends/the-impact-of-tariffs-and-geopolitical-challenges-on-the-drone-industry">The Impact of Tariffs and Geopolitical Challenges on the Drone ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#tariffs`, `#drones`, `#trade policy`, `#United States`, `#import duties`
-
----
-
-<a id="item-finance-news-6"></a>
-### [苹果提议美国 App Store 外部购买抽成最高 15%](https://9to5mac.com/2026/08/13/apple-proposes-commissions-of-up-to-15-for-off-app-store-purchases-in-the-us/) ⭐️ 7.0/10
-
-苹果已向法院提交美国 App Store 外部购买抽成方案：标准应用抽成 15%，视频、新闻等合作项目及订阅续费抽成 10%，小型企业计划应用抽成 5%。该方案尚待法院审理，目前只是提案而不是最终政策。
+苹果已向美国法院提交 App Store 外部购买抽成方案，拟对标准应用抽成 15%，视频、新闻等合作项目及订阅续费抽成 10%，小型企业计划应用抽成 5%。这是苹果与 Epic Games 反垄断诉讼中的一项提议，尚未最终生效。
 
 telegram · zaihuapd · 8月14日 02:33
 
-**「背景」** 这是 Epic 诉苹果案的一部分；美国最高法院此前拒绝了苹果暂停下级法院审理费率问题的请求。Epic 将有机会回应，苹果预计于 9 月 14 日前向最高法院提交书面意见。
+**「背景」** 此前美国最高法院驳回了苹果要求暂停下级法院审理相关费率的请求。接下来 Epic 将有机会回应，苹果需在 9 月 14 日前向最高法院提交书面意见。
 
-**标签**: `#Apple`, `#App Store`, `#regulation`, `#Epic Games`, `#commissions`
+**标签**: `#Apple`, `#App Store`, `#App Store commissions`, `#Epic Games`, `#antitrust`
 
 ---
